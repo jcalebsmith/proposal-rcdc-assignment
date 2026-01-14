@@ -1,0 +1,1898 @@
+[
+  {
+    "name": "Acquired Cognitive Impairment",
+    "created": "2015",
+    "category_summary": "The <em>Acquired Cognitive Impairment</em> category includes research on acquired disorders or conditions leading to the loss or impairment of cognitive function due to structural or metabolic changes in the brain. Includes research on serious cognitive impairment due to substance misuse, traumatic brain injury or therapies.",
+    "categories_included": "Dementia"
+  },
+  {
+    "name": "Acute Respiratory Distress Syndrome",
+    "created": "2008",
+    "category_summary": "The <em>Acute Respiratory Distress Syndrome</em> category includes research on the causes, diagnosis, prevention, and treatment of the lung conditions acute respiratory distress syndrome (ARDS) and acute lung injury in adults only. Includes research on sepsis, environmental toxicities, or treatment-associated injuries as long as there is an association with the lung.",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Adolescent Sexual Activity",
+    "created": "2010",
+    "category_summary": "The <em>Adolescent Sexual Activity</em> category includes research on the sexual behavior of adolescents (ages 12-20 years). Includes research on adolescent behavior related to consensual and nonconsensual sex, pregnancy, sexually transmitted disease prevention, and contraception.&nbsp;",
+    "categories_included": "Teenage Pregnancy"
+  },
+  {
+    "name": "Agent Orange & Dioxin",
+    "created": "2008",
+    "category_summary": "The <em>Agent Orange</em> category includes research on the health effects of exposure to the chemical herbicide Agent Orange&nbsp;and industrial contamination of dioxins.",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Aging",
+    "created": "2008",
+    "category_summary": "The <em>Aging </em>category includes research on the process of aging. All research funded by the National Institute of Aging is reported in the <em>Aging</em> category.",
+    "categories_included": "Alzheimer&#039;s Disease,  Menopause,  Sarcopenia"
+  },
+  {
+    "name": "Alcoholism, Alcohol Use and Health",
+    "created": "2008",
+    "category_summary": "The <em>Alcoholism, Alcohol Use and Health</em> category includes research on alcohol consumption, dependence, and moderate to heavy use across the lifespan, including underage drinking. Includes research on the diagnosis and prevention of the negative effects of alcohol, such as drinking and driving, liver damage, and prenatal alcohol exposure, as well as research on the beneficial effects of alcohol consumption. All research funded by the National Institute on Alcohol Abuse and Alcoholism is reported in the <em>Alcoholism, Alcohol Use and Health</em> category. This category was formerly known as Alcoholism (renamed in 2015).&nbsp;",
+    "categories_included": "Fetal Alcohol Spectrum Disorders (FASD),  Underage Drinking"
+  },
+  {
+    "name": "Allergic Rhinitis (Hay Fever)",
+    "created": "2008",
+    "category_summary": "The <em>Allergic Rhinitis (Hay Fever) </em>category includes research on the causes, diagnosis, prevention, and treatment of allergic rhinitis, including hay fever and seasonal allergies. Non-allergic forms of sinusitis and rhinitis, such as acute bacterial sinusitis and bacterial rhinitis, are not included.",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Alzheimer's Disease",
+    "created": "2008",
+    "category_summary": "The <em>Alzheimer's Disease</em> category includes research on the causes, diagnosis, prevention, and treatment of Alzheimer's disease, a brain disorder causing dementia. Includes research on other areas, such as normal aging, mixed dementias, sleep disorders, or HIV-associated disorders, when Alzheimer's disease is a component of the research. Research on services and support of caregivers for individuals with Alzheimer's is included.",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Alzheimer's Disease including Alzheimer's Disease Related Dementias (AD/ADRD)",
+    "created": "2015",
+    "category_summary": "The <em>Alzheimer's Disease including Alzheimer's Disease Related Dementias (AD/ADRD)</em> category combines and removes duplicate projects found in the <em>Alzheimer’s Disease</em> and the <em>Alzheimer’s Disease Related Dementias (ADRD)</em> categories. Projects reported in this category can only be from the <em>Alzheimer’s Disease</em> category and/or the <em>Alzheimer’s Disease Related Dementias (ADRD)</em> category. It was established pursuant to Section 230, Division G of the Consolidated and Further Continuing Appropriations Act of 2015 as related to reporting of NIH initiatives supporting the <a href=\"https://aspe.hhs.gov/national-alzheimers-project-act\">National Alzheimer’s Project Act (NAPA)</a>.&nbsp;",
+    "categories_included": "Alzheimer&#039;s Disease,  Alzheimer&#039;s Disease Related Dementias (ADRD)"
+  },
+  {
+    "name": "Alzheimer's Disease Related Dementias (ADRD)",
+    "created": "2015",
+    "category_summary": "The <em>Alzheimer's Disease Related Dementias (ADRD)</em> category combines and removes duplicate projects found in the <em>Frontotemporal Dementia (FTD)</em>, <em>Lewy Body Dementia</em>, and <em>Vascular Contributions to Cognitive Impairment and Dementia (VCID)</em> categories. Projects reported in this category can only be from those three categories. It was established pursuant to Section 230, Division G of the Consolidated and Further Continuing Appropriations Act of 2015 as related to reporting of NIH initiatives supporting the <a href=\"https://aspe.hhs.gov/national-alzheimers-project-act\">National Alzheimer’s Project Act (NAPA)</a>.",
+    "categories_included": "Frontotemporal Dementia (FTD),  Lewy Body Dementia,  Vascular Contributions to Cognitive Impairment and Dementia (VCID)"
+  },
+  {
+    "name": "American Indian or Alaska Native",
+    "created": "2008",
+    "category_summary": "The <em>American Indian or Alaska Native</em> category includes research on the health of all state and federally recognized American Indian or Alaska Native populations within the United States. Native Hawaiians or Other Pacific Islanders are not included in this group as they are distinct from American Indian and Alaska Native populations. This category was formerly known as American Indians/Alaska Natives (renamed in 2017).",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Amyotrophic Lateral Sclerosis (ALS)",
+    "created": "2008",
+    "category_summary": "The <em>Amyotrophic Lateral Sclerosis (ALS)</em> category includes research on the causes, diagnosis, prevention, and treatment of the neurological disorder ALS, also known as Lou Gehrig's disease. This category was formerly known as ALS (renamed in 2024).&nbsp;",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Anorexia",
+    "created": "2008",
+    "category_summary": "The <em>Anorexia</em> category includes research on the causes, diagnosis, prevention, and treatment of the eating disorder anorexia nervosa. Research on weight loss due to illness or therapeutic treatments, such as cancer or chemotherapy, is not included.",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Anthrax",
+    "created": "2008",
+    "category_summary": "The <em>Anthrax</em> category includes research on the causative pathogen, transmission, diagnosis, prevention, and treatment of the illness caused by the anthrax toxin.",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Antimicrobial Resistance",
+    "created": "2008",
+    "category_summary": "The <em>Antimicrobial Resistance</em> category includes research on the causes, transmission, prevention, and treatment of antimicrobial resistance and resistant pathogens. Antimicrobial resistance includes resistance to antibiotics, antibacterials, antifungals, antiparasitics, and antivirals.&nbsp;",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Anxiety Disorders",
+    "created": "2015",
+    "category_summary": "The <em>Anxiety Disorders</em> category includes research on the causes, diagnosis, prevention, and treatment of anxiety disorders, including generalized anxiety disorder, obsessive-compulsive disorder, panic disorder, post-traumatic stress disorder, social phobia (social anxiety disorder), and related phobias.",
+    "categories_included": "Post-Traumatic Stress Disorder (PTSD)"
+  },
+  {
+    "name": "Aphasia",
+    "created": "2008",
+    "category_summary": "The <em>Aphasia</em> category includes research on the causes, diagnosis, prevention, and treatments of aphasia, a language disorder that makes it hard to read, write, or speak. Includes research on basic memory, language, and speech if there is a link to aphasia.",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Arctic",
+    "created": "2008",
+    "category_summary": "The <em>Arctic</em> category includes research on the health of Arctic populations as well as biomedical research related to the Arctic environment. The Arctic boundary is defined by the <a href=\"https://www.arctic.gov/uploads/assets/ARPA_Alaska_and_Polar.pdf\">Arctic Research and Policy Act</a>.",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Arthritis",
+    "created": "2008",
+    "category_summary": "The <em>Arthritis</em> category includes research on the causes, diagnosis, prevention, and treatment of arthritis (conditions of joint inflammation).&nbsp;",
+    "categories_included": "Osteoarthritis,  Rheumatoid Arthritis"
+  },
+  {
+    "name": "Assistive Technology",
+    "created": "2008",
+    "category_summary": "The <em>Assistive Technology</em> category includes research on any item, piece of equipment, or product system that is meant to increase, maintain, or improve the functional capabilities of those that have a loss or reduction in function, or to compensate for a functional impairment or underdevelopment. Includes research on device safety of assistive technology. Research on technology or devices that restore function to a user which allows them to no longer need the technology is not included. Research on medical devices used in acute care or life-support in a clinical setting, such as mechanical ventilator research, is not included.",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Asthma",
+    "created": "2008",
+    "category_summary": "The <em>Asthma</em> category includes research on the causes, progression, treatments, and outcomes of the chronic lung disease asthma. Includes research on allergies directly associated with asthma.",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Ataxia Telangiectasia",
+    "created": "2008",
+    "category_summary": "The <em>Ataxia Telangiectasia</em> category includes research on the genetics, diagnosis, and treatment of ataxia telangiectasia, an inherited disease that affects the nervous system, immune system, and other body systems.",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Atherosclerosis",
+    "created": "2008",
+    "category_summary": "The <em>Atherosclerosis</em> category includes research on the causes, diagnosis, prevention, treatment, and outcomes of atherosclerosis, a condition of plaque buildup in the arteries. Includes research on cardiovascular conditions caused by atherosclerosis, such as angina pectoris and coronary arteriosclerosis.&nbsp;",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Attention Deficit Hyperactivity Disorder (ADHD)",
+    "created": "2008",
+    "category_summary": "The <em>Attention Deficit Hyperactivity Disorder (ADHD)</em> category includes research on the causes, diagnosis, prevention, and treatment of ADHD, a disorder marked by an ongoing pattern of inattention, hyperactivity, and/or impulsivity. Research on the use of ADHD medications (for example, Adderall, Ritalin, and Straterra) outside of ADHD treatment is not included. This category was formerly known as Attention Deficit Disorder (ADD) (renamed in 2021).",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Autism",
+    "created": "2008",
+    "category_summary": "The <em>Autism</em> category includes research on the causes, diagnosis, services, and therapies for autism or autism spectrum disorder, a neurological and developmental disorder that affects how people interact with others, communicate, learn, and behave. Includes behavioral research related to autism.",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Autoimmune Disease",
+    "created": "2008",
+    "category_summary": "The <em>Autoimmune Disease</em> category includes research on the causes, diagnosis, prevention, and treatment of autoimmune diseases, which are defined as immune-mediated diseases involving T cells and/or immune mediated responses against one's own body.&nbsp;",
+    "categories_included": "Celiac Disease,  Inflammatory Bowel Disease,  Lupus,  Multiple Sclerosis,  Myasthenia Gravis,  Psoriasis,  Rheumatoid Arthritis,  Sarcoidosis,  Scleroderma"
+  },
+  {
+    "name": "Back Pain",
+    "created": "2016",
+    "category_summary": "The <em>Back Pain</em> category includes research on the causes, diagnosis, prevention, and treatment of back pain, defined as any discomfort or pain in the back (vertebral columns from thoracic to coccyx) region (muscles, nerves, bones, and disks). Includes research on sciatica and spinal pain.&nbsp;",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Basic Behavioral and Social Science",
+    "created": "2008",
+    "category_summary": "The <em>Basic Behavioral and Social Science</em> category includes basic behavioral and social science research relevant to human health, defined as research that builds on the collective body of knowledge about the nature of social and behavioral systems and deepens the understanding of basic behavioral and social functions, mechanisms, and processes. Research in a clinical setting is only included if basic behavioral or social processes are examined. Clinical trials, therapeutic development, interventions, primary prevention, and other applied research areas are not included.&nbsp;",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Batten Disease",
+    "created": "2008",
+    "category_summary": "The <em>Batten Disease</em> category includes research on the causes, diagnosis, prevention, and treatment of the neurodegenerative disorders Batten disease, neuronal ceroid lipofuscinoses, and Batten-like diseases.&nbsp;",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Behavioral and Social Science",
+    "created": "2008",
+    "category_summary": "The <em>Behavioral and Social Science</em> category includes research on the behavioral and social phenomena relevant to human health. Behavioral phenomena refer to the observable actions of individuals or groups and to mental phenomena, such as knowledge, attitudes, beliefs, motivations, perceptions, cognitions, and emotions. Social phenomena refer to the interactions between and among individuals, and to the characteristics, structures, and functions of social groups and institutions, such as families, communities, schools, and workplaces, as well as the physical, economic, cultural, and policy environments in which social and behavioral phenomena occur.",
+    "categories_included": "Basic Behavioral and Social Science"
+  },
+  {
+    "name": "Biodefense and Related Countermeasures",
+    "created": "2023",
+    "category_summary": "The <em>Biodefense and Related Countermeasures </em>category includes research on biodefense pathogens, toxins, infectious agents, and topics listed on NIH’s <a href=\"https://www.niaid.nih.gov/research/niaid-biodefense-pathogens\">Biodefense Pathogens website</a>.",
+    "categories_included": "Anthrax,    Hepatitis - A,   Orthopoxviruses,  Transmissible Spongiform Encephalopathy (TSE),  Valley Fever,  West Nile Virus,  Zika Virus"
+  },
+  {
+    "name": "Bioengineering",
+    "created": "2008",
+    "category_summary": "The <em>Bioengineering</em> category includes research using physical, chemical, or mathematical sciences and engineering principles for the study of biology, medicine, behavior, or health. Includes research on the development of technology along with the innovative application of existing technology.",
+    "categories_included": "Assistive Technology,  Nanotechnology"
+  },
+  {
+    "name": "Biomedical Imaging",
+    "created": "2008",
+    "category_summary": "The <em>Biomedical Imaging</em> category includes research developing and using in vivo imaging (imaging of living organisms) for insight on normal function, disease diagnosis, early detection, treatment, and disease monitoring. This category was formerly known as Diagnostic Radiology (renamed in 2017).",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Biotechnology",
+    "created": "2008",
+    "category_summary": "The <em>Biotechnology</em> category includes research on the development of new biotechnologies (biologically derived technologies, analytical instruments, and computational tools) and innovative uses of existing biotechnologies.",
+    "categories_included": "Gene Therapy"
+  },
+  {
+    "name": "Bipolar Disorder",
+    "created": "2015",
+    "category_summary": "The <em>Bipolar Disorder </em>category includes research on the causes, diagnosis, prevention, and treatment of bipolar disorder, including cyclothymic disorder/cyclothymia, rapid-cycling bipolar disorder, bipolar depression, bipolar mania, bipolar psychosis, and hypomania.",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Brain Cancer",
+    "created": "2008",
+    "category_summary": "The<em> Brain Cancer</em> category includes research on the causes, diagnosis, prevention, and treatment of cancers that originate within the brain.&nbsp;",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Brain Disorders",
+    "created": "2008",
+    "category_summary": "The <em>Brain Disorders</em> category includes research on diseases or disorders of the brain. Includes research on mental illness, substance use, sensory disorders, communication disorders, oral and craniofacial disorders when focused on neuroscience or the population experiencing these disorders. Spinal cord research without associated brain dysfunction is not included.",
+    "categories_included": "Acquired Cognitive Impairment,  Amyotrophic Lateral Sclerosis (ALS),  Anxiety Disorders,  Aphasia,  Attention Deficit Hyperactivity Disorder (ADHD),  Batten Disease,  Bipolar Disorder,  Brain Cancer,  Cerebral Palsy,  Depression,  Eating Disorders,  Epilepsy,  Huntington&#039;s Disease,  Hydrocephalus,  Intellectual and Developmental Disabilities (IDD),  Migraine,  Multiple Sclerosis,  Parkinson&#039;s Disease,  Rett Syndrome,  Schizophrenia,  Stroke,  Tourette Syndrome,  Transmissible Spongiform Encephalopathy (TSE),  Traumatic Brain Injury (TBI),  Tuberous Sclerosis"
+  },
+  {
+    "name": "Breast Cancer",
+    "created": "2008",
+    "category_summary": "The <em>Breast Cancer</em> category includes research on the causes, diagnosis, prevention, and treatment of cancers that originate in the tissues of the breast.&nbsp;",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Breastfeeding, Lactation and Breast Milk",
+    "created": "2017",
+    "category_summary": "The <em>Breastfeeding, Lactation and Breast Milk</em> category includes research on breastfeeding, lactation, and breast milk, including mammary development during pregnancy and post-lactational mammary involution. Includes research on the effects of infections, vaccines and substances on lactation, breast milk properties, or the breastfeeding baby. Includes research on the health impacts of breastfeeding on the child.&nbsp;",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Building Research Capacity at Institutions with Limited NIH Funding",
+    "created": "2023",
+    "category_summary": "The <em>Building Research Capacity at Institutions with Limited NIH Funding</em> category includes programs designed to enhance and build research capabilities for resource-limited institutions with $25 million or less NIH research funding or $50 million or less total NIH funding, as well as programs for resource-limited states (such as Institutional Development Awards), federally recognized Tribes and Tribal Organizations, and Historically Black Colleges and Universities (HBCU).",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Burden of Illness",
+    "created": "2008",
+    "category_summary": "The <em>Burden of Illness</em> category includes research focused on understanding the impact and consequences of a specific health condition on individuals, communities, and healthcare systems. Includes research that aims to quantify and analyze various aspects of the burden imposed by a particular disease or health issue, such as monetary costs and the adverse impacts on physical and emotional well-being. Research that is not population based or research that evaluates and documents the efficacy of interventions to reduce the burden of disease is not included.",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Cachexia",
+    "created": "2016",
+    "category_summary": "The <em>Cachexia</em> category includes research on the causes, diagnosis, prevention, and treatment of the muscle wasting syndrome known as cachexia, including cancer cachexia and acute cachexia. Includes research on atrophy in response to chronic kidney disease and chronic obstructive pulmonary disease.",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Cancer",
+    "created": "2008",
+    "category_summary": "The <em>Cancer</em> category includes research on the causes, diagnosis, prevention, and treatment of all types of cancer, a term for diseases in which abnormal cells divide without control and can invade nearby tissues. All research funded by the National Cancer Institute is included in the <em>Cancer</em> category.",
+    "categories_included": "Brain Cancer,  Breast Cancer,  Cervical Cancer,  Colorectal Cancer,  Esophageal Cancer,  HPV and/or Cervical Cancer Vaccines,  Liver Cancer,  Lung Cancer,  Lymphoma,  Neuroblastoma,  Ovarian Cancer,  Pancreatic Cancer,  Prostate Cancer,  Skin Cancer,  Stomach Cancer,  Uterine Cancer,  Vaginal Cancer, Cancer Genomics,  Pediatric Cancer,  Radiation Oncology"
+  },
+  {
+    "name": "Cancer Genomics",
+    "created": "2016",
+    "category_summary": "The <em>Cancer Genomics</em> category includes research using genome-wide analysis or gene expression-related analysis to identify genetic determinants of cancer.&nbsp;",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Cannabidiol Research",
+    "created": "2015",
+    "category_summary": "The <em>Cannabidiol Research</em> category includes research involving use of cannabidiol (CBD).&nbsp;Includes research on the production of industrial CBD and processes to enhance CBD availability.",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Cannabinoid Research",
+    "created": "2015",
+    "category_summary": "The <em>Cannabinoid Research</em> category includes research on cannabis, purified or synthetic cannabinoids, the endogenous cannabinoid system, and how they affect health. Includes research on the prevention, treatment, and outcomes of cannabis use.",
+    "categories_included": "Cannabidiol Research,  Endocannabinoid System Research, Therapeutic Cannabinoid Research"
+  },
+  {
+    "name": "Cardiovascular",
+    "created": "2008",
+    "category_summary": "The <em>Cardiovascular</em> category includes research on the cardiovascular system, including the heart and blood vessels. Includes research on the causes, diagnosis, prevention, and treatment of cardiovascular diseases and conditions. Research on blood is not included.&nbsp;",
+    "categories_included": "Heart Disease,  Pediatric Cardiomyopathy,  Postural Orthostatic Tachycardia Syndrome"
+  },
+  {
+    "name": "Caregiving Research",
+    "created": "2016",
+    "category_summary": "The <em>Caregiving Research</em> category includes research on caregiving, the caregiver, and the care recipient across a spectrum of care, diseases, and settings. A caregiver is defined as anyone, either paid or unpaid, who provides care for an individual with acute or chronic needs, such as people with a disability, medical illness, or who are older adults. Includes research on parenting only when the care recipient is disabled, sick, or with special needs.",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Celiac Disease",
+    "created": "2021",
+    "category_summary": "The C<em>eliac Disease</em> category includes research on the causes, diagnosis, prevention, and treatment of celiac disease, a chronic digestive and immune disorder that damages the small intestine. Includes research on failure of intestinal barrier function when focused on celiac disease.",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Cerebral Palsy",
+    "created": "2008",
+    "category_summary": "The <em>Cerebral Palsy</em> category includes research on the causes, diagnosis, prevention, and treatment of cerebral palsy, a group of neurological disorders that appear in infancy or early childhood.&nbsp;",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Cerebrovascular",
+    "created": "2016",
+    "category_summary": "The <em>Cerebrovascular</em> category includes research on the cerebrovascular system, including the blood-brain barrier and all cells, structures, or systems supplying oxygen and nutrients to or removing waste from the brain. Includes research on the causes, diagnosis, prevention, and treatment of cerebrovascular diseases and conditions.",
+    "categories_included": "Stroke,  Vascular Contributions to Cognitive Impairment and Dementia (VCID)"
+  },
+  {
+    "name": "Cervical Cancer",
+    "created": "2008",
+    "category_summary": "The <em>Cervical Cancer</em> category includes research on the causes, diagnosis, prevention, and treatment of cancers that originate in the tissues of the cervix.&nbsp;",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Charcot-Marie-Tooth Disease",
+    "created": "2008",
+    "category_summary": "The <em>Charcot-Marie-Tooth Disease</em> category includes research on the genetics, diagnosis, and treatment of Charcot-Marie-Tooth disease, also known as hereditary motor and sensory neuropathy.",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Child Abuse and Neglect Research",
+    "created": "2008",
+    "category_summary": "The <em>Child Abuse and Neglect Research</em> category includes research on the abuse or neglect of children from birth to age 21, including physical, emotional, or sexual abuse.&nbsp;",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Childhood Injury",
+    "created": "2008",
+    "category_summary": "The <em>Childhood Injury</em> category includes research on the causes, diagnosis, prevention, and treatment of physical injuries occurring during the fetal period to age 21. This category was formerly known as Injury - Childhood Injury (renamed in 2021).",
+    "categories_included": "Unintentional Childhood Injury"
+  },
+  {
+    "name": "Childhood Leukemia",
+    "created": "2008",
+    "category_summary": "The <em>Childhood Leukemia</em> category includes research on the causes, diagnosis, prevention, treatment, and survivorship of leukemias (cancers of the blood) that present in childhood (birth to age 21).&nbsp;",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Childhood Obesity",
+    "created": "2018",
+    "category_summary": "The <em>Childhood Obesity</em> category includes research on the causes, diagnosis, prevention, and treatment of obesity (a chronic disease characterized by excess body fat and an increased risk of developing other diseases) from the fetal period through age 17 and its complications.&nbsp;",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Chronic Fatigue Syndrome (ME/CFS)",
+    "created": "2008",
+    "category_summary": "The <em>Chronic Fatigue Syndrome (ME/CFS) </em>category includes research on the causes, diagnosis, prevention, and treatment of chronic fatigue syndrome (CFS) or myalgic encephalomyelitis (ME), a debilitating and complex syndrome characterized by profound fatigue that is not improved by bed rest and may be exacerbated or rekindled by physical or mental activity. This category was formerly known as Chronic Fatigue Syndrome (renamed in 2010).",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Chronic Liver Disease and Cirrhosis",
+    "created": "2008",
+    "category_summary": "The <em>Chronic Liver Disease and Cirrhosis</em> category includes research on the causes, diagnosis, prevention, and treatment of chronic liver conditions, such as cirrhosis, alcohol liver toxicity, and chronic biliary conditions.&nbsp;",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Chronic Obstructive Pulmonary Disease",
+    "created": "2008",
+    "category_summary": "The <em>Chronic Obstructive Pulmonary Disease</em> category includes research on the causes, diagnosis, prevention, and treatment of chronic obstructive pulmonary disease (COPD) and the chronic lung conditions emphysema and chronic bronchitis.&nbsp;",
+    "categories_included": "Emphysema"
+  },
+  {
+    "name": "Chronic Pain",
+    "created": "2008",
+    "category_summary": "The <em>Chronic Pain</em> category includes research on the causes, diagnosis, prevention, and treatment of chronic pain. Includes pain research on painful chronic conditions, such as complex regional pain syndrome, neuropathies, and migraines. This category was formerly known as Pain Conditions - Chronic (renamed in 2018).",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Climate-Related Exposures and Conditions",
+    "created": "2008",
+    "category_summary": "The <em>Climate-Related Exposures and Conditions</em> category includes research on the health effects of climate related exposures, such as air quality, water quality, temperature, and extreme weather events. Includes research on the causes, diagnosis, prevention, and treatment of harmful exposures or conditions related to climate. This category was formerly known as Health Effects of  (renamed in 2011).",
+    "categories_included": ""
+  },
+  {
+    "name": "Clinical Research",
+    "created": "2008",
+    "category_summary": "The <em>Clinical Research</em> category includes research that meets the NIH definition for <a href=\"https://grants.nih.gov/grants/glossary.htm#ClinicalResearch\">clinical research</a>. Clinical research is defined as research conducted with human participants, or research on the causes and consequences of disease in human populations involving material of human origin (such as tissue specimens and cognitive phenomena) for which an investigator or colleague directly interacts with human participants.",
+    "categories_included": "  Clinical Trials and Supportive Activities,  Health Services, "
+  },
+  {
+    "name": "Clinical Trials and Supportive Activities",
+    "created": "2008",
+    "category_summary": "The <em>Clinical Trials and Supportive Activities </em>category includes research that meets the <a href=\"https://grants.nih.gov/policy/clinical-trials/definition.htm\">NIH definition of a clinical trial</a> and projects defined as a clinical trial supportive activity, such as training awards, infrastructure, and support services for clinical trials. Includes planning trials and pilot activities that contain interventions and trial components. This category was formerly known as Clinical Trials (renamed in 2015).",
+    "categories_included": "Gene Therapy Clinical Trials, "
+  },
+  {
+    "name": "Cocaine",
+    "created": "2022",
+    "category_summary": "The <em>Cocaine</em> category includes research on the prevention, treatment, and outcomes of cocaine use, addiction, and overdose.&nbsp;",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Colorectal Cancer",
+    "created": "2008",
+    "category_summary": "The <em>Colorectal Cancer</em> category includes research on the causes, diagnosis, prevention, and treatment of cancers that originate in the colon or rectal regions. This category was formerly known as Colo-Rectal Cancer (renamed in 2024).",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Comparative Effectiveness Research",
+    "created": "2009",
+    "category_summary": "The <em>Comparative Effectiveness Research</em> category includes research that aims to compare the benefits and harms of different interventions and strategies in preventing, diagnosing, treating, and monitoring health conditions in real-world settings. Includes research conducting direct head-to-head comparisons of two or more healthcare interventions (such as medications, treatments, medical devices, or healthcare delivery models) or comparisons across different healthcare systems. Research that only compares an experimental option to placebo is not included.&nbsp;",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Complementary and Integrative Health",
+    "created": "2008",
+    "category_summary": "The <em>Complementary and Integrative Health</em> category includes research on complementary, alternative, and integrated approaches to health, such as botanical dietary supplements, massage therapy, movement meditation, and mindfulness exercises. All research funded by the National Center for Complementary and Integrative Health is reported in the <em>Complementary and Integrative Health</em> category. This category was formerly known as Complementary and Alternative Medicine (renamed in 2019).&nbsp;",
+    "categories_included": "Hyperbaric Oxygen"
+  },
+  {
+    "name": "Conditions Affecting the Embryonic and Fetal Periods",
+    "created": "2008",
+    "category_summary": "The <em>Conditions Affecting the Embryonic and Fetal Periods</em> category includes research on the causes, diagnosis, prevention, and treatment of conditions affecting the human fetal and embryonic period (embryo to birth), including exposure to tobacco, drugs, and toxins. This category was renamed in 2013 to reflect current scientific terminology.",
+    "categories_included": "Fetal Alcohol Spectrum Disorders (FASD)"
+  },
+  {
+    "name": "Congenital Heart Disease",
+    "created": "2016",
+    "category_summary": "The <em>Congenital Heart Disease</em> category includes research on the causes, diagnosis, prevention, and treatment of conditions affecting the heart present at birth. Includes research on conditions caused by congenital heart disease or on adults who were born with congenital heart disease.",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Congenital Muscular Dystrophy",
+    "created": "2016",
+    "category_summary": "The <em>Congenital Muscular Dystrophy</em> category includes research on the genetics, diagnosis, and treatment of congenital muscular dystrophy, a subset of inherited muscular dystrophies that present with progressive muscle weakness either at or shortly after birth.&nbsp;",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Congenital Structural Anomalies",
+    "created": "2015",
+    "category_summary": "The <em>Congenital Structural Anomalies</em> category includes research on structural defects present at the time of birth, such as heart defects, craniofacial, spinal, or limb abnormalities, and neural tube defects. Includes research on basic human development.",
+    "categories_included": "Congenital Muscular Dystrophy,  Osteogenesis Imperfecta,  Polycystic Kidney Disease,  Spina Bifida"
+  },
+  {
+    "name": "Contraception/Reproduction",
+    "created": "2008",
+    "category_summary": "The <em>Contraception/Reproduction</em> category includes research on male and female reproductive health from puberty to menopause. Research on cancers of the reproductive system is only included when focused on fertility.",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Cooley's Anemia",
+    "created": "2008",
+    "category_summary": "The <em>Cooley’s Anemia</em> category includes research on the genetics, diagnosis, and treatment of the inherited blood disorder Cooley's anemia, also known as beta thalassemia major or thalassemia major. Includes research on alpha thalassemia and hemoglobinopathy&nbsp;when there is a connection to Cooley’s anemia​.",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Coronaviruses",
+    "created": "2020",
+    "category_summary": "The <em>Coronaviruses</em> category includes research on the causes, diagnosis, prevention, and treatment of human diseases caused by coronaviruses, such as COVID-19, severe acute respiratory syndrome (SARS), Middle East respiratory syndrome (MERS), and zoonotic coronavirus infections. Includes research on animal-to-human coronavirus spillover potential. Includes behavioral and social research on the COVID-19 pandemic.",
+    "categories_included": "Coronaviruses Diagnostics and Prognostics,  Coronaviruses Disparities and At-Risk Populations,  Coronaviruses Therapeutics and Interventions,  Coronaviruses Vaccines,  Post-Acute Sequelae of SARS-CoV-2 infection (PASC) including Long COVID"
+  },
+  {
+    "name": "Coronaviruses Diagnostics and Prognostics",
+    "created": "2021",
+    "category_summary": "The <em>Coronaviruses Diagnostics and Prognostics</em> category includes research on the testing and detection of coronaviruses and diseases caused by coronaviruses. Includes research on improvements in access or uptake of diagnostics and prognostics. Research on detection of coronaviruses at the population level, such as in wastewater, is not included.",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Coronaviruses Disparities and At-Risk Populations",
+    "created": "2021",
+    "category_summary": "The <em>Coronaviruses Disparities and At-Risk Populations </em>category includes research on at-risk or underserved populations associated with increased risk for coronavirus-associated infections, morbidity, and mortality.&nbsp;",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Coronaviruses Therapeutics and Interventions",
+    "created": "2021",
+    "category_summary": "The <em>Coronaviruses Therapeutics and Interventions</em> category includes research on the development and use of therapeutics and interventions for human diseases caused by coronaviruses.",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Coronaviruses Vaccines",
+    "created": "2021",
+    "category_summary": "The <em>Coronaviruses Vaccines</em> category includes research on the development, delivery, and outcomes of coronaviruses vaccines. Includes research on coronaviruses vaccine storage, distribution, accessibility, acceptance, and hesitancy.",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Cost Effectiveness Research",
+    "created": "2008",
+    "category_summary": "The <em>Cost Effectiveness Research</em> category includes research that aims to evaluate the effectiveness of various medical interventions, treatments, and public health programs and policies by considering their costs and outcomes on a common metric, often the ratio of net cost over net effectiveness. Non-monetary health outcomes such as cases of disease prevented, years of life gained, or quality-adjusted life years are used to measure cost effectiveness.",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Crohn's Disease",
+    "created": "2008",
+    "category_summary": "The <em>Crohn's Disease </em>category includes research on the causes, diagnosis, prevention, and treatment of Crohn's disease, a type of inflammatory bowel disease.&nbsp;",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Cystic Fibrosis",
+    "created": "2008",
+    "category_summary": "The <em>Cystic Fibrosis</em> category includes research on the genetics, diagnosis, and treatment of cystic fibrosis, a genetic disease affecting the glands that make mucus and sweat. Mucus research in the context of the lung, gut, or airway is included.",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Data Science",
+    "created": "2019",
+    "category_summary": "The <em>Data Science</em> category includes research on quantitative and analytical approaches, processes, and systems that are developed and used to extract knowledge and insights from increasingly large and/or complex sets of biomedical data.",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Dementia",
+    "created": "2013",
+    "category_summary": "The <em>Dementia</em> category includes research on the causes, diagnosis, prevention, and treatment of dementia, which is a collection of symptoms, including memory loss and impaired intellectual functions, with many possible underlying causes or disorders. Includes research on dementia related to substance use, traumatic brain injury, and infectious agents.",
+    "categories_included": "Alzheimer&#039;s Disease including Alzheimer&#039;s Disease Related Dementias (AD/ADRD)"
+  },
+  {
+    "name": "Dental, Oral, and Craniofacial Disease",
+    "created": "2008",
+    "category_summary": "The <em>Dental, Oral, and Craniofacial Disease</em> category includes research on the causes, diagnosis, prevention, and treatment of diseases and conditions that affect the dental, oral and/or craniofacial areas. All research funded by the National Institute of Dental and Craniofacial Research is reported in the <em>Dental, Oral, and Craniofacial Disease</em> category. This category was formerly known as Dental/Oral and Craniofacial Disease (renamed in 2024).",
+    "categories_included": "Temporomandibular Muscle/Joint Disorder (TMJD)"
+  },
+  {
+    "name": "Depression",
+    "created": "2008",
+    "category_summary": "The <em>Depression</em> category includes research on the causes, diagnosis, prevention, and treatment of clinical depression, as well as depressive symptoms and grief.",
+    "categories_included": "Major Depressive Disorder"
+  },
+  {
+    "name": "Diabetes",
+    "created": "2008",
+    "category_summary": "The <em>Diabetes</em> category includes research on the causes, diagnosis, prevention, and treatment of diabetes (Type 1, Type 2, Type 3c, gestational diabetes, and cystic fibrosis-related diabetes) and its complications. Includes research on risk factors for diabetes, such as obesity, only when focused on diabetes. Research on diabetes insipidus, which is a separate disease, is not included.",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Dietary Supplements",
+    "created": "2016",
+    "category_summary": "The <em>Dietary Supplements</em> category includes research on the discovery and health effects of products intended for ingestion that contain a dietary ingredient, such as a vitamin, mineral, herb, amino acid, or metabolite, which are meant to add nutritional value to the diet.&nbsp;",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Diethylstilbestrol (DES)",
+    "created": "2008",
+    "category_summary": "The <em>Diethylstilbestrol (DES)</em> category includes research on the health effects of the synthetic estrogen DES.&nbsp;",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Digestive Diseases",
+    "created": "2008",
+    "category_summary": "The<em> Digestive Diseases</em> category includes research on the causes, diagnosis, prevention, and treatment of diseases that affect the digestive tract (tongue, pharynx, esophagus, stomach, small intestine, large intestine, rectum, and anus) and accessory digestive glands (salivary glands, liver, gallbladder, biliary tree, and exocrine pancreas). Includes research on digestion of food and absorption of nutrients.",
+    "categories_included": "Celiac Disease,  Colorectal Cancer,  Digestive Diseases - (Gallbladder),  Digestive Diseases - (Peptic Ulcer),  Esophageal Cancer,  Inflammatory Bowel Disease,  Liver Disease,  Pancreatic Cancer,  Stomach Cancer"
+  },
+  {
+    "name": "Digestive Diseases - (Gallbladder)",
+    "created": "2008",
+    "category_summary": "The <em>Digestive Diseases - (Gallbladder)</em> category includes research on the causes, diagnosis, prevention, and treatment of gallbladder diseases and conditions.",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Digestive Diseases - (Peptic Ulcer)",
+    "created": "2008",
+    "category_summary": "The <em>Digestive Diseases - (Peptic Ulcers) </em>category includes research on the causes, diagnosis, prevention, and treatment of peptic ulcers, which are sores on the lining of the stomach. Includes research on Helicobacter pylori, the bacteria that primarily causes peptic ulcers, when studying peptic ulcers and the progression to gastric cancer.",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Disability Research",
+    "created": "2024",
+    "category_summary": "The <em>Disability Research</em> category includes the biological, physical, psychological, and societal aspects of disabilities, focusing on measurable outcomes such as improving functional abilities, quality of life, and promoting social inclusion. Includes research on accessibility, health disparities, and equity for people with disabilities, aiming to reduce barriers in physical and digital environments.&nbsp;",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Dissemination and Implementation Research",
+    "created": "2021",
+    "category_summary": "The <em>Dissemination and Implementation Research</em> category includes research on the barriers, facilitators, and outcomes of dissemination and implementation strategies for delivering evidence-based practices. Dissemination research is the study of targeted distribution of information and intervention materials to a specific audience and to understand how best to communicate and integrate knowledge and the associated interventions. Implementation research is the study of strategies to adopt and integrate interventions into clinical and community settings to improve outcomes. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Down Syndrome",
+    "created": "2008",
+    "category_summary": "The <em>Down Syndrome</em> category includes research on the genetics, diagnosis, services, and therapies of Down syndrome, a condition resulting from an extra copy or piece of chromosome 21. Includes research on co-occurring diseases, such as early onset Alzheimer's disease, when there is a Down syndrome population involved in study.",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Drug Abuse (NIDA only)",
+    "created": "2008",
+    "category_summary": "The <em>Drug Abuse (NIDA only)</em> category includes only research funded by the National Institute on Drug Abuse (NIDA). All other NIH funded drug misuse-related research is reported in the Substance Misuse category.",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Duchenne/ Becker Muscular Dystrophy",
+    "created": "2008",
+    "category_summary": "The <em>Duchenne/Becker Muscular Dystrophy</em> category includes research on the genetics, diagnosis, and treatment of Duchenne muscular dystrophy and Becker muscular dystrophy, which are forms of muscular dystrophy occurring in children and young adults.",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Dystonia",
+    "created": "2008",
+    "category_summary": "The <em>Dystonia</em> category includes research on the causes, diagnosis, prevention, and treatment of dystonia, a group of disorders that cause involuntary muscle contractions.",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Eating Disorders",
+    "created": "2009",
+    "category_summary": "The <em>Eating Disorders</em> category includes research on the causes, diagnosis, prevention, and treatment of eating disorders including anorexia, bulimia nervosa, binge eating disorders, and eating disorders not otherwise specified. Includes research on obesity only when focused on an eating disorder. Research on weight loss due to illness or therapeutic treatments, such as cancer or chemotherapy is not included.",
+    "categories_included": "Anorexia"
+  },
+  {
+    "name": "Eczema / Atopic Dermatitis",
+    "created": "2015",
+    "category_summary": "The <em>Eczema/Atopic Dermatitis </em>category includes research on the causes, diagnosis, prevention, and treatment of the inflammatory skin condition eczema, also known as atopic dermatitis. Research on radiation dermatitis, stasis dermatitis, and contact dermatitis is not included.",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Electronic Nicotine Delivery Systems",
+    "created": "2020",
+    "category_summary": "The <em>Electronic Nicotine Delivery Systems</em> (ENDS) category includes research on the prevention, treatment, and outcomes of nicotine use from ENDS products, such as electronic cigarettes or nicotine vaping. Includes research on the use of heated tobacco products without combustion.",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Emergency Care",
+    "created": "2015",
+    "category_summary": "The <em>Emergency Care</em> category includes research on the care of patients experiencing emergency situations in a pre-hospital and emergency department (ED) setting. Research on patient care that extends beyond the ED setting (intensive/critical care unit, urgent care, etc.) is included when focused on the immediate impact of emergency care provided.",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Emerging Infectious Diseases",
+    "created": "2008",
+    "category_summary": "The <em>Emerging Infectious Diseases</em> category includes research on the causes, transmission, diagnosis, prevention, and treatment of infectious diseases whose incidence has increased within the last two decades or threatens to increase in the near future. In addition to topics listed on <a href=\"https://www.niaid.nih.gov/research/niaid-biodefense-pathogens\">NIH’s Biodefense Pathogens website</a>, this category includes infectious diseases that are newly emerging or have the potential to cause outbreaks.",
+    "categories_included": "Anthrax,   Coronaviruses Diagnostics and Prognostics,  Coronaviruses Therapeutics and Interventions,  Coronaviruses Vaccines,  Hepatitis - A,  Influenza,  Orthopoxviruses,  Post-Acute Sequelae of SARS-CoV-2 infection (PASC) including Long COVID,  Transmissible Spongiform Encephalopathy (TSE),  Tuberculosis,  Valley Fever,  West Nile Virus,  Zika Virus"
+  },
+  {
+    "name": "Emphysema",
+    "created": "2008",
+    "category_summary": "The <em>Emphysema</em> category includes research on the causes, diagnosis, prevention, and treatment of emphysema, a type of chronic obstructive pulmonary disease.",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Endocannabinoid System Research",
+    "created": "2016",
+    "category_summary": "The <em>Endocannabinoid System Research</em> category includes research on the endogenous cannabinoid system, a network in the human body involved in mood regulation, memory, and pain sensation. Includes research on the manipulation of the endocannabinoid system to improve human health.",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Endocrine Disruptors",
+    "created": "2016",
+    "category_summary": "The <em>Endocrine Disruptors</em> category includes research on the identification and health effects of man-made or naturally occurring compounds that interfere with the body’s hormones, which are part of the endocrine system.",
+    "categories_included": "Diethylstilbestrol (DES)"
+  },
+  {
+    "name": "Endometriosis",
+    "created": "2008",
+    "category_summary": "The <em>Endometriosis</em> category includes research on the causes, diagnosis, prevention, and treatment of endometriosis, a disease that causes tissue similar to the lining of the uterus to grow in other places in the body.&nbsp;",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Epilepsy",
+    "created": "2008",
+    "category_summary": "The <em>Epilepsy</em> category includes research on the causes, diagnosis, prevention, and treatment of seizures and the brain disorder epilepsy.",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Esophageal Cancer",
+    "created": "2020",
+    "category_summary": "The <em>Esophageal Cancer</em> category includes research on the causes, diagnosis, prevention, and treatment of cancers that originate in the tissues lining the esophagus.&nbsp;",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Estrogen",
+    "created": "2008",
+    "category_summary": "The <em>Estrogen</em> category includes research on the health impacts and/or effects of the hormone estrogen, as well as estrogen antagonists, disruptors, and modulators.&nbsp;",
+    "categories_included": "Diethylstilbestrol (DES)"
+  },
+  {
+    "name": "Eye Disease and Disorders of Vision",
+    "created": "2008",
+    "category_summary": "The <em>Eye Disease and Disorders of Vision </em>category includes research on the eyes, vision, and blindness rehabilitation. Includes research on the causes, diagnosis, prevention, and treatment of diseases and conditions affecting vision or the eyes. All research funded by the National Eye Institute is reported in the <em>Eye Disease and Disorders of Vision</em> category.",
+    "categories_included": "Macular Degeneration,  Usher Syndrome"
+  },
+  {
+    "name": "Facioscapulohumeral Muscular Dystrophy",
+    "created": "2008",
+    "category_summary": "The <em>Facioscapulohumeral Muscular Dystrophy</em> category includes research on the genetics, diagnosis, and treatment of facioscapulohumeral muscular dystrophy, a muscular dystrophy that initially affects the muscles of the face, shoulders, and upper arms.&nbsp;",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Fentanyl Misuse and Addiction",
+    "created": "2023",
+    "category_summary": "The <em>Fentanyl Misuse and Addiction</em> category includes research on the prevention, treatment, and outcomes of fentanyl misuse, addiction, and overdose. Includes research on fentanyl contamination as well as treating opioid use disorder involving fentanyl or fentanyl analogs, such as carfentanil, remifentanil, and sufentanil.",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Fetal Alcohol Spectrum Disorders (FASD)",
+    "created": "2008",
+    "category_summary": "The <em>Fetal Alcohol Spectrum Disorders (FASD)</em> category includes research on the health effects of alcohol exposure to the fetus during pregnancy and the causes, diagnosis, prevention, and treatment of the fetal alcohol spectrum disorders, such as fetal alcohol syndrome and alcohol-related birth defects. This category was formerly known as Fetal Alcohol Syndrome (renamed in 2021).",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Fibroid Tumors (Uterine)",
+    "created": "2008",
+    "category_summary": "The<em> Fibroid Tumors (Uterine)</em> category includes research on the causes, diagnosis, prevention, and treatment of benign tumors, fibroids, and leiomyomas of the uterus.",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Fibromyalgia",
+    "created": "2008",
+    "category_summary": "The <em>Fibromyalgia</em> category includes research on the causes, diagnosis, prevention, and treatment of fibromyalgia, a chronic condition that causes pain and fatigue.&nbsp;",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Firearms Research",
+    "created": "2020",
+    "category_summary": "The<em> Firearms Research</em> category includes research on the causes, prevention, and outcomes of firearm use as it relates to public health.",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Food Allergies",
+    "created": "2011",
+    "category_summary": "The <em>Food Allergies</em> category includes research on the causes, diagnosis, prevention, and treatment of food allergies. Research on food intolerance and celiac disease is not included.",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Foodborne Illness",
+    "created": "2008",
+    "category_summary": "The <em>Foodborne Illness </em>category includes research on the causative pathogens, transmission, diagnosis, prevention, and treatment of illness due to ingestion of contaminated food or beverages. Includes research on food contamination with pathogenic bacteria, toxins, viruses, prions, parasites, or environmental contaminants. This category was formerly known as Food Safety (renamed in 2015).",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Fragile X Syndrome",
+    "created": "2008",
+    "category_summary": "The <em>Fragile X Syndrome</em> category includes research on the genetics, diagnosis, and treatment of fragile X syndrome, a genetic developmental disorder.",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Frontotemporal Dementia (FTD)",
+    "created": "2008",
+    "category_summary": "The <em>Frontotemporal Dementia (FTD)</em> category includes research on the causes, diagnosis, prevention, and treatment of FTD, a dementia characterized by degeneration in the frontal and/or temporal lobes of the brain.",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Gene Therapy",
+    "created": "2008",
+    "category_summary": "The <em>Gene Therapy</em> category includes research on gene transfer and gene editing for therapeutic purposes. Includes research on therapies involving the transfer of recombinant or synthetic genetic material by various methods.",
+    "categories_included": "Gene Therapy Clinical Trials"
+  },
+  {
+    "name": "Gene Therapy Clinical Trials",
+    "created": "2008",
+    "category_summary": "The <em>Gene Therapy Clinical Trials</em> category includes research on the deliberate transfer of recombinant or synthetic nucleic acids into one or more human research participants as defined by the <a href=\"https://osp.od.nih.gov/wp-content/uploads/NIH_Guidelines.pdf\">NIH Guidelines for Research Involving Recombinant or Synthetic Nucleic Acid Molecules</a>.",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Genetic Testing",
+    "created": "2008",
+    "category_summary": "The <em>Genetic Testing</em> category includes research on the development and validation of genetic tests for clinical care and public health purposes, such as analysis of human DNA, RNA, genes, chromosomes, gene products, and metabolites. Includes research on genetics tests for disease diagnosis, risk assessment, carrier testing, and clinical management. Research on direct-to-consumer genetic tests used for purposes such as forensics, paternity, and ancestry are not included.&nbsp;",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Genetics",
+    "created": "2008",
+    "category_summary": "The <em>Genetics</em> category includes research on the structure, function, and organization of genes, the regulation of gene activity in all life processes, and the transmission of genetic information from one generation to the next. Includes research on DNA-damaging agents and use of genetic tools.",
+    "categories_included": "Gene Therapy,  Genetic Testing,  Human Genome"
+  },
+  {
+    "name": "Harm Reduction for Substance Misuse",
+    "created": "2023",
+    "category_summary": "The <em>Harm Reduction for Substance Misuse</em> category includes research on efforts to reduce and/or prevent the harmful consequences of drug use. Includes research on harm reduction services and reducing stigma related to substance use, overdose, and substance use disorder treatment and recovery.",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Headaches",
+    "created": "2010",
+    "category_summary": "The <em>Headaches</em> category includes research on the causes, diagnosis, prevention, and treatment of headaches, including migraines.",
+    "categories_included": "Migraine"
+  },
+  {
+    "name": "Health Disparities and Racial or Ethnic Minority Health Research",
+    "created": "2023",
+    "category_summary": "The <em>Health Disparities and Racial or Ethnic Minority Health Research</em> category combines and removes duplicate projects found in the <em>Health Disparities Research</em> category and the <em>Racial and Ethnic Minority Health Research</em> category.",
+    "categories_included": "Health Disparities Research,  Racial and Ethnic Minority Health Research"
+  },
+  {
+    "name": "Health Disparities Research",
+    "created": "2023",
+    "category_summary": "The <em>Health Disparities Research</em> category includes research on health disparities, defined as preventable differences in health status and outcomes that adversely affect disadvantaged populations. More specifically, a health disparity is a health difference that adversely affects populations who are disadvantaged based on one or more of the following health outcomes: 1) higher incidence and/or prevalence and earlier onset of disease, 2) higher prevalence of risk factors, unhealthy behaviors, or clinical measures in the causal pathway of a disease outcome, 3) higher rates of condition-specific symptoms, reduced global daily functioning, or self-reported health-related quality of life using standardized measures, 4) premature and/or excessive mortality from diseases where population rates differ, 5) greater global burden of disease using a standardized metric. Research on health disparities examines the influence of individual behavior and biology, clinical health care, physical and interpersonal environment, social determinants, and other underlying mechanisms that lead to differences in health outcomes. Research also seeks to identify evidence-based approaches to reduce the unequal burdens of morbidity and mortality among disadvantaged populations, such as racial and ethnic minority groups, low socioeconomic status individuals, rural individuals, and people with disabilities in the United States.&nbsp;",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Health Effects of Household Energy Combustion",
+    "created": "2015",
+    "category_summary": "The <em>Health Effects of Household Energy Combustion </em>category includes research on the health effects of exposure to chemicals, particulates, and other pollutants produced by burning solid fuels in the home for cooking, heating, and lighting. Includes research on the causes, diagnosis, prevention, and treatment of harmful exposures due to household energy combustion.",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Health Effects of Indoor Air Pollution",
+    "created": "2015",
+    "category_summary": "The <em>Health Effects of Indoor Air Pollution</em> category includes research on the health effects of indoor exposure to chemicals, particulates, and other pollutants carried by air, dust, or manmade items. Includes research on the causes, diagnosis, prevention, and treatment of harmful exposures due to indoor air pollution.&nbsp;",
+    "categories_included": "Health Effects of Household Energy Combustion"
+  },
+  {
+    "name": "Health Services",
+    "created": "2008",
+    "category_summary": "The <em>Health Services</em> category includes research on healthcare delivery, access, and use, and the impact of these services on health. Includes research on healthcare delivery in schools or community settings.",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Hearing Loss",
+    "created": "2019",
+    "category_summary": "The <em>Hearing Loss</em> category includes research on the causes, diagnosis, prevention, and treatment of hearing loss and impairment. Includes research on language acquisition in populations with hearing loss, sign language, and auditory prostheses.",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Heart Disease",
+    "created": "2008",
+    "category_summary": "The <em>Heart Disease</em> category includes research on the causes, diagnosis, prevention, and treatment of diseases and conditions that affect the heart.",
+    "categories_included": "Congenital Heart Disease,  Heart Disease - Coronary Heart Disease"
+  },
+  {
+    "name": "Heart Disease - Coronary Heart Disease",
+    "created": "2008",
+    "category_summary": "The <em>Heart Disease - Coronary Heart Disease</em> category includes research on the causes, diagnosis, prevention, and treatment of diseases and conditions that affect the coronary arteries of the heart.",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Hematology",
+    "created": "2008",
+    "category_summary": "The <em>Hematology</em> category includes research on the blood or blood-forming organs. Includes research on the causes, diagnosis, prevention, and treatment of blood diseases and conditions.&nbsp;",
+    "categories_included": "Childhood Leukemia,  Cooley&#039;s Anemia,  Lymphoma,  Sepsis,  Sickle Cell Disease"
+  },
+  {
+    "name": "Hepatitis",
+    "created": "2008",
+    "category_summary": "The <em>Hepatitis </em>category includes research on the causes, diagnosis, prevention, and treatment of inflammation of the liver called hepatitis.",
+    "categories_included": "Hepatitis - A,  Hepatitis - B,  Hepatitis - C"
+  },
+  {
+    "name": "Hepatitis - A",
+    "created": "2008",
+    "category_summary": "The <em>Hepatitis - A </em>category includes research on the causative pathogen, transmission, diagnosis, prevention, and treatment of the viral infection hepatitis A.",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Hepatitis - B",
+    "created": "2008",
+    "category_summary": "The <em>Hepatitis - B</em> category includes research on the causative pathogen, transmission, diagnosis, prevention, and treatment of the viral infection hepatitis B.",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Hepatitis - C",
+    "created": "2008",
+    "category_summary": "The <em>Hepatitis - C</em> category includes research on the causative pathogen, transmission, diagnosis, prevention, and treatment of the viral infection hepatitis C.",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "HIV/AIDS",
+    "created": "2008",
+    "category_summary": "Reporting for <em>HIV/AIDS</em> does not follow the standard RCDC process. The <em>HIV/AIDS</em> category is created by manual classification of projects determined by NIH subject matter experts as relating to HIV/AIDS research. More information on HIV/AIDS and HIV/AIDS-related research is available at <a href=\"https://www.oar.nih.gov/hiv-policy-and-research\">https://www.oar.nih.gov/hiv-policy-and-research</a>.",
+    "categories_included": "   Pediatric - AIDS,   Vaccine Related - AIDS"
+  },
+  {
+    "name": "Hodgkin's Disease",
+    "created": "2008",
+    "category_summary": "The <em>Hodgkin's Disease</em> category includes research on the causes, diagnosis, prevention, and treatment of Hodgkin's disease, a cancer of the immune system that is marked by the presence of Reed-Sternberg cells.",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Homelessness",
+    "created": "2008",
+    "category_summary": "The <em>Homelessness</em> category includes research on the health of people experiencing homelessness.",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Homicide and Legal Interventions",
+    "created": "2008",
+    "category_summary": "The <em>Homicide and Legal Interventions</em> category includes research on homicide prevention and the impacts of homicide on communities and individual health. Homicide refers to the killing of one human being by another.",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "HPV and/or Cervical Cancer Vaccines",
+    "created": "2008",
+    "category_summary": "The <em>HPV and/or Cervical Cancer Vaccines</em> category includes research on the development, delivery, and outcomes of vaccines for human papillomavirus (HPV) and cervical cancers.",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Human Fetal Tissue",
+    "created": "2008",
+    "category_summary": "Reporting for <em>Human Fetal Tissue</em> does not follow the standard RCDC process. The <em>Human Fetal Tissue</em> category is created by manual classification of projects determined by NIH subject matter experts as relating to human fetal tissue research based on the current <a href=\"https://grants.nih.gov/grants/guide/notice-files/NOT-OD-19-128.html\">NIH definition</a>.",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Human Fetal Tissue Transplantation",
+    "created": "2008",
+    "category_summary": "Reporting for <em>Human Fetal Tissue Transplantation</em> does not follow the standard RCDC process. The <em>Human Fetal Tissue Transplantation</em> category is created by manual classification of projects determined by NIH subject matter experts as relating to research on the transplantation of human fetal tissues for therapeutic purposes based on current <a href=\"https://osp.od.nih.gov/policies/stem-cell-and-developmental-biology-policy#tab3/\">NIH guidelines</a>.",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Human Genome",
+    "created": "2008",
+    "category_summary": "The <em>Human Genome </em>category includes research on the genome (complete set of DNA), chemical modifications and proteins associated with the genome, and the regulation of gene activity on a genome-wide scale of humans and model organisms. Genome research on plants or pathogens is not included. All research funded by the National Human Genome Research Institute is reported in the <em>Human Genome</em> category.",
+    "categories_included": "Cancer Genomics"
+  },
+  {
+    "name": "Huntington's Disease",
+    "created": "2008",
+    "category_summary": "The <em>Huntington's Disease </em>category includes research on the genetics, diagnosis, and treatment of the inherited neurodegenerative disorder Huntington's disease.",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Hydrocephalus",
+    "created": "2012",
+    "category_summary": "The <em>Hydrocephalus</em> category includes research on the causes, diagnosis, prevention, and treatment of hydrocephalus, which is the buildup of too much cerebrospinal fluid in the brain. Includes research on Dandy-Walker syndrome.",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Hyperbaric Oxygen",
+    "created": "2008",
+    "category_summary": "The <em>Hyperbaric Oxygen</em> category includes research on hyperbaric oxygen as a therapeutic intervention.",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Hypertension",
+    "created": "2008",
+    "category_summary": "The <em>Hypertension</em> category includes research on high blood pressure associated with the systemic circulatory system, including renal hypertension. Research on pulmonary, intracranial, ocular, or portal hypertension is not included.",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Immunization",
+    "created": "2008",
+    "category_summary": "The <em>Immunization</em> category includes research on the development, delivery, outcomes, and societal factors of immunization strategies. Includes research on immune protection achieved through direct exposure to a pathogen (such as from an infection or vaccination) or from antibodies received from other sources (such as treatment or breast milk).&nbsp;",
+    "categories_included": "Vaccine Related"
+  },
+  {
+    "name": "Immunotherapy",
+    "created": "2019",
+    "category_summary": "The <em>Immunotherapy</em> category includes research on the development, delivery, and outcomes of treatments designed to induce, enhance, or suppress host immune responses. Examples include transferring cells into a patient to help fight disease, vaccines to treat disease, and viral treatments for cancer.",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Infant Mortality",
+    "created": "2015",
+    "category_summary": "The <em>Infant Mortality</em> category includes research on the causes and prevention of infant death from live birth to one year. Includes research on diseases or conditions present at birth that could lead to death, before the age of one, if left untreated.",
+    "categories_included": "Sudden Infant Death Syndrome"
+  },
+  {
+    "name": "Infectious Diseases",
+    "created": "2008",
+    "category_summary": "The <em>Infectious Diseases</em> category includes research on the causes, transmission, diagnosis, prevention, and treatment of human diseases caused by pathogens (such as bacteria, viruses, fungi, parasites). Includes research on animal-specific pathogens when they serve as models for human infectious diseases.",
+    "categories_included": "Antimicrobial Resistance,  Emerging Infectious Diseases,  Hepatitis - B,  Hepatitis - C,   Otitis Media,  Pneumonia and Influenza,  Sepsis,  Sexually Transmitted Infections,  Tuberculosis,  Vector-Borne Diseases"
+  },
+  {
+    "name": "Infertility",
+    "created": "2008",
+    "category_summary": "The <em>Infertility</em> category includes research related to the causes, diagnosis, prevention, and treatment of male and female infertility, as well as research on fertility.",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Inflammatory Bowel Disease",
+    "created": "2008",
+    "category_summary": "The <em>Inflammatory Bowel Disease</em> category includes research on the causes, diagnosis, prevention, and treatment of inflammatory bowel diseases, which are disorders that cause chronic inflammation of the digestive tract. Includes research on colitis-associated colorectal cancers.&nbsp;",
+    "categories_included": "Crohn&#039;s Disease"
+  },
+  {
+    "name": "Influenza",
+    "created": "2008",
+    "category_summary": "The <em>Influenza</em> category includes research on the causative pathogens, transmission, diagnosis, prevention, and treatment of the illness caused by influenza viruses, also known as the flu.",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Intellectual and Developmental Disabilities (IDD)",
+    "created": "2008",
+    "category_summary": "The<em> Intellectual and Developmental Disabilities (IDD)</em> category includes research on the causes, diagnosis, prevention, and treatment of IDDs. The age of onset must be before 18 years for a disease or disorder to be considered an IDD. This category was renamed in 2013 due to Rosa's Law to reflect current scientific terminology.",
+    "categories_included": "Autism,  Congenital Muscular Dystrophy,  Down Syndrome,  Fetal Alcohol Spectrum Disorders (FASD),  Fragile X Syndrome,  Rett Syndrome"
+  },
+  {
+    "name": "Interstitial Cystitis",
+    "created": "2008",
+    "category_summary": "The <em>Interstitial Cystitis</em> category includes research on the causes, diagnosis, prevention, and treatment of inflammation or irritation in the bladder. Includes research on pelvic pain, painful urination, pelvic floor dysfunction, and increased frequency of urination.",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Kidney Disease",
+    "created": "2008",
+    "category_summary": "The <em>Kidney Disease</em> category includes research on the causes, diagnosis, prevention, and treatment of kidney diseases, such as renal tubule disorders, kidney circulation disorders, and congenital kidney disorders.",
+    "categories_included": "  Polycystic Kidney Disease"
+  },
+  {
+    "name": "Lead Poisoning",
+    "created": "2008",
+    "category_summary": "The <em>Lead Poisoning</em> category includes research on the health effects of lead exposure, including the causes, diagnosis, prevention, and treatment of lead toxicity.",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Lewy Body Dementia",
+    "created": "2014",
+    "category_summary": "The <em>Lewy Body Dementia</em> category includes research on the causes, diagnosis, prevention, and treatment of Lewy body dementia, a disease associated with abnormal deposits of a protein called alpha-synuclein in the brain. Includes research on Parkinson's disease dementia and Lewy body variant of Alzheimer's disease.",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Liver Cancer",
+    "created": "2008",
+    "category_summary": "The <em>Liver Cancer</em> category includes research on the causes, diagnosis, prevention, and treatment of cancers that originate in the liver and biliary cancer.&nbsp;",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Liver Disease",
+    "created": "2008",
+    "category_summary": "The <em>Liver Disease</em> category includes research on the liver and biliary system. Includes research on the causes, diagnosis, prevention, and treatment of liver diseases and conditions.",
+    "categories_included": "Chronic Liver Disease and Cirrhosis,  Hepatitis,  Liver Cancer"
+  },
+  {
+    "name": "Lung",
+    "created": "2008",
+    "category_summary": "The <em>Lung</em> category includes research on the lung and other components of the respiratory tract involved in respiration, including the small and large respiratory airways, diaphragm, trachea, pharynx, nasal and mouth cavities. Includes research on the causes, diagnosis, prevention, and treatment of respiratory diseases and conditions.",
+    "categories_included": "Acute Respiratory Distress Syndrome,  Asthma,  Chronic Obstructive Pulmonary Disease,  Cystic Fibrosis,  Lung Cancer,  Neonatal Respiratory Distress,  Pneumonia,  Pulmonary Fibrosis"
+  },
+  {
+    "name": "Lung Cancer",
+    "created": "2008",
+    "category_summary": "The <em>Lung Cancer</em> category includes research on the causes, diagnosis, prevention, and treatment of cancers that originate in tissues of the lung.&nbsp;",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Lupus",
+    "created": "2008",
+    "category_summary": "The <em>Lupus</em> category includes research on the causes, diagnosis, prevention, and treatment of the autoimmune disease lupus.",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Lyme Disease",
+    "created": "2008",
+    "category_summary": "The <em>Lyme Disease</em> category includes research on the causative pathogens, transmission, diagnosis, prevention, and treatment of the bacterial infection Lyme disease.&nbsp;",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Lymphatic Research",
+    "created": "2021",
+    "category_summary": "The <em>Lymphatic Research</em> category includes research on the lymphatic system, the network of organs, vessels and tissues that move a colorless fluid called lymph back to the bloodstream. Includes research on lymph nodes and lymphatic organs, such as the spleen, thymus, and bone marrow. Includes research on the causes, diagnosis, prevention, and treatment of lymphatic diseases or conditions.",
+    "categories_included": "Lymphedema,  Lymphoma"
+  },
+  {
+    "name": "Lymphedema",
+    "created": "2021",
+    "category_summary": "The <em>Lymphedema</em> category includes research on the causes, diagnosis, prevention, and treatment of hereditary and acquired lymphedema, a condition caused by accumulation of lymph fluid.",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Lymphoma",
+    "created": "2008",
+    "category_summary": "The <em>Lymphoma</em> category includes research on the causes, diagnosis, prevention, and treatment of cancers that originate in cells of the lymphatic system. &nbsp;&nbsp;",
+    "categories_included": "Hodgkin&#039;s Disease"
+  },
+  {
+    "name": "Machine Learning and Artificial Intelligence",
+    "created": "2019",
+    "category_summary": "The <em>Machine Learning and Artificial Intelligence</em> category includes research on the development and use of artificial intelligence and machine learning in biomedical research. Includes research on natural language processing, automated and semi-automated systems, and adaptive robotics.",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Macular Degeneration",
+    "created": "2008",
+    "category_summary": "The<em> Macular Degeneration</em> category includes research on the causes, diagnosis, prevention, and treatment of the eye diseases macular degeneration and Stargardt disease.&nbsp;",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Major Depressive Disorder",
+    "created": "2015",
+    "category_summary": "The <em>Major Depressive Disorder</em> category includes research on the causes, diagnosis, prevention, and treatment of major depressive disorder and major depression, including major depressive episodes and seasonal affective disorder.",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Malaria",
+    "created": "2008",
+    "category_summary": "The <em>Malaria</em> category includes research on the causative pathogens, transmission, diagnosis, prevention, and treatment of the mosquito-borne infectious disease known as malaria.",
+    "categories_included": "Malaria Vaccine"
+  },
+  {
+    "name": "Malaria Vaccine",
+    "created": "2008",
+    "category_summary": "The <em>Malaria Vaccine</em> category includes research on the development, delivery, and outcomes of malaria vaccines.&nbsp;",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Maternal Health",
+    "created": "2017",
+    "category_summary": "The <em>Maternal Health</em> category includes research on the health and well-being of individuals who are pregnant or have recently given birth, including the effects of pregnancy, pregnancy loss or termination, and childbirth. Includes research on pre-pregnancy care and pregnancy planning when focused on maternal health.",
+    "categories_included": "Maternal Morbidity and Mortality"
+  },
+  {
+    "name": "Maternal Morbidity and Mortality",
+    "created": "2020",
+    "category_summary": "The <em>Maternal Morbidity and Mortality</em> category includes research on the causes, diagnosis, treatment, and prevention of complications in or death of individuals who are pregnant or have given birth.&nbsp;",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Menopause",
+    "created": "2023",
+    "category_summary": "The <em>Menopause </em>category includes research on the biology, mechanisms, diagnosis, and treatment of the menopausal transition and associated symptoms, as well as on psychological and social dimensions related to this transition. Includes research on premature and induced menopause.",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Mental Health",
+    "created": "2008",
+    "category_summary": "The <em>Mental Health </em>category includes research on the causes, diagnosis, prevention, and treatment of mental health disorders, as well as research on improving and maintaining mental health. Includes research on indicators of mental health (such as stress, anxiety, resilience, coping, cognitive function, and emotional regulation). All research funded by the National Institute of Mental Health is reported in the <em>Mental Health</em> category.",
+    "categories_included": "Anxiety Disorders,  Attention Deficit Hyperactivity Disorder (ADHD),  Autism,  Bipolar Disorder,  Depression,  Eating Disorders,  Schizophrenia,  Suicide, Mental Illness,  Psychosis,  Serious Mental Illness"
+  },
+  {
+    "name": "Mental Illness",
+    "created": "2016",
+    "category_summary": "The <em>Mental Illness </em>category includes research on the causes, diagnosis, prevention, and treatment of diagnosable mental illnesses that can result in mild to severe functional impairment. Includes research on psychiatric symptoms due to drugs, injury, physical and/or biochemical changes to the brain.&nbsp;",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Methamphetamine",
+    "created": "2008",
+    "category_summary": "The <em>Methamphetamine</em> category includes research on the prevention, treatment, and outcomes of methamphetamine use, addiction, and overdose.&nbsp;",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Microbiome",
+    "created": "2019",
+    "category_summary": "&nbsp;The <em>Microbiome</em> category includes research on collections of microbes (such as bacteria, fungi, or viruses) and their impact on the health of the organism that they naturally live on or inside. Includes research on transplantation of microbes.",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Migraine",
+    "created": "2010",
+    "category_summary": "The <em>Migraine</em> category includes research on the causes, diagnosis, prevention, and treatment of migraine, a recurring type of severe headache. This category was formerly known as Migraines (renamed in 2022).",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Mucopolysaccharidoses (MPS)",
+    "created": "2008",
+    "category_summary": "The <em>Mucopolysaccharidoses (MPS) </em>category includes research on the genetics, diagnosis, and treatment of MPS, a group of rare genetic metabolic diseases.",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Multiple Sclerosis",
+    "created": "2008",
+    "category_summary": "The <em>Multiple Sclerosis </em>category includes research on the causes, diagnosis, prevention, and treatment of the neurological disease multiple sclerosis.",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Muscular Dystrophy",
+    "created": "2008",
+    "category_summary": "The <em>Muscular Dystrophy</em> category includes research on the genetics, diagnosis, and treatment of muscular dystrophy, a group of hereditary, progressive degenerative disorders causing weakness of the skeletal or voluntary muscles. Includes research on Duchenne, Becker, limb-girdle, congenital, facioscapulohumeral, myotonic, oculopharyngeal, distal and Emery-Dreifuss muscular dystrophy.&nbsp;",
+    "categories_included": "Congenital Muscular Dystrophy,  Duchenne/ Becker Muscular Dystrophy,  Facioscapulohumeral Muscular Dystrophy,  Myotonic Dystrophy"
+  },
+  {
+    "name": "Myasthenia Gravis",
+    "created": "2008",
+    "category_summary": "The <em>Myasthenia Gravis</em> category includes research on the causes, diagnosis, prevention, and treatment of myasthenia gravis, a chronic disease that causes weakness in voluntary muscles.",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Myotonic Dystrophy",
+    "created": "2008",
+    "category_summary": "The <em>Myotonic Dystrophy</em> category includes research on the genetics, diagnosis, and treatment of myotonic dystrophy, an adult-onset muscular dystrophy.",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Nanotechnology",
+    "created": "2008",
+    "category_summary": "Reporting for <em>Nanotechnology</em> does not follow the standard RCDC process. The <em>Nanotechnology</em> category is created by manual classification of projects determined by NIH subject matter experts as relating to biomedical research on the understanding and control of matter at the nanoscale, at dimensions between approximately 1 and 100 nanometers, where unique phenomena enable novel applications. This research encompasses nanoscale science, engineering, and technology that involves imaging, measuring, modeling, and manipulating matter at the nanometer length scale. Research topics in this category align with the <a href=\"https://www.nano.gov/pcadefinitions\">program component areas of the National Nanotechnology Initiative</a>, which coordinates federal nanotechnology research and development.",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Natural Products",
+    "created": "2023",
+    "category_summary": "The <em>Natural Products</em> category includes research on the discovery, applications, and health effects of substances, complex mixtures, or compounds originating from plants, bacteria, fungi, and animals. This category is limited to research on secondary metabolites, which are compounds produced by an organism that are not involved in growth, development, or reproduction of the organism, but can have a biological effect in another organism (such as compounds produced by plants to ward off herbivory).",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Neck Pain",
+    "created": "2016",
+    "category_summary": "The <em>Neck Pain</em> category includes research on the causes, diagnosis, prevention, and treatment of neck pain, defined as discomfort or pain to the posterior neck (cervical vertebral column) region (muscles, nerves, bones, disks).",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Neonatal Respiratory Distress",
+    "created": "2008",
+    "category_summary": "The <em>Neonatal Respiratory Distress</em> category includes research on the causes, diagnosis, prevention, and treatment of respiratory distress in newborns from birth to 28 days old. This category was formerly known as Perinatal - Neonatal Respiratory Distress Syndrome (renamed in 2016).",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Networking and Information Technology R&D (NITRD)",
+    "created": "2008",
+    "category_summary": "Reporting for <em>Networking and Information Technology Research and Development (NITRD)</em> does not follow the standard RCDC process. The <em>NITRD</em> category is created by manual classification of projects determined by NIH subject matter experts as relating to biomedical research on innovative technologies for communication, networking, and information science. Research on the application of existing technologies or standard protocols for technology development is not included. Research topics in this category align with the coordination areas of the <a href=\"https://www.nitrd.gov/\">NITRD program</a>, which coordinates federal IT research and development.&nbsp;",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Neuroblastoma",
+    "created": "2011",
+    "category_summary": "The <em>Neuroblastoma</em> category includes research on the causes, diagnosis, prevention, and treatment of neuroblastoma, a cancer of immature nerve cells.&nbsp;",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Neurodegenerative",
+    "created": "2008",
+    "category_summary": "The <em>Neurodegenerative</em> category includes research on the causes, diagnosis, prevention, and treatment of the progressive deterioration and loss of function in the nervous system.",
+    "categories_included": "Alzheimer&#039;s Disease,  Amyotrophic Lateral Sclerosis (ALS),  Ataxia Telangiectasia,  Batten Disease,  Dystonia,  Epilepsy,  Frontotemporal Dementia (FTD),  Huntington&#039;s Disease,  Lewy Body Dementia,  Macular Degeneration,  Multiple Sclerosis,  Parkinson&#039;s Disease,  Peripheral Neuropathy,  Spinal Muscular Atrophy,  Transmissible Spongiform Encephalopathy (TSE),  Vascular Contributions to Cognitive Impairment and Dementia (VCID)"
+  },
+  {
+    "name": "Neurofibromatosis",
+    "created": "2008",
+    "category_summary": "The <em>Neurofibromatosis</em> category includes research on the causes, diagnosis, prevention, and treatment of neurofibromatosis conditions, a group of conditions that cause tumors to grow in the nervous system.",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Neurosciences",
+    "created": "2008",
+    "category_summary": "The <em>Neurosciences</em> category includes research on the peripheral and central nervous systems, which includes the brain, spinal cord, and networks of nerve cells throughout the body. Behavioral, mental health, and pain research is included if neurological or brain measurements are part of the study. All research funded by the National Institute of Neurological Disorders and Stroke is reported in the <em>Neurosciences</em> category.",
+    "categories_included": "  Epilepsy,  Huntington&#039;s Disease,  Multiple Sclerosis,  Myasthenia Gravis,  Neuroblastoma,  Neurofibromatosis,  Parkinson&#039;s Disease,  Peripheral Neuropathy"
+  },
+  {
+    "name": "Nutrition",
+    "created": "2008",
+    "category_summary": "The <em>Nutrition</em> category includes research on human nutrition, metabolism, and diet as it relates to health and disease. Includes research on taste, weight management, and dietary supplements.",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Obesity",
+    "created": "2008",
+    "category_summary": "The <em>Obesity</em> category includes research on the causes, diagnosis, prevention, and treatment of obesity (a chronic disease characterized by excess body fat and an increased risk of developing other diseases) and its complications.",
+    "categories_included": "Childhood Obesity"
+  },
+  {
+    "name": "Opioid Misuse and Addiction",
+    "created": "2018",
+    "category_summary": "The <em>Opioid Misuse and Addiction</em> category includes research on the prevention, treatment, and outcomes of opioid misuse, addiction, and overdose.&nbsp;",
+    "categories_included": "Fentanyl Misuse and Addiction"
+  },
+  {
+    "name": "Opioids",
+    "created": "2018",
+    "category_summary": "The <em>Opioids</em> category includes research on opioids and how they affect health. Includes research on the prevention, treatment, and outcomes of opioid use, misuse, addiction, and overdose.",
+    "categories_included": "Opioid Misuse and Addiction"
+  },
+  {
+    "name": "Organ Transplantation",
+    "created": "2008",
+    "category_summary": "The <em>Organ Transplantation </em>category includes research on the transplantation of organs and the post-transplant health of organ transplant recipients. Research on the transplantation of tissues, cells, and bone/bone marrow is not included.",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Orphan Drug",
+    "created": "2008",
+    "category_summary": "The <em>Orphan Drug</em> category includes research on the development of treatments, diagnostics, interventions, and devices for rare diseases, which are defined as diseases affecting fewer than 200,000 individuals in the United States.&nbsp;",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Orthopoxviruses",
+    "created": "2008",
+    "category_summary": "The <em>Orthopoxviruses</em> category includes research on the causative pathogens, transmission, diagnosis, prevention, and treatment of infections caused by orthopoxviruses. &nbsp;This category was formerly known as Small Pox (renamed in 2024).",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Osteoarthritis",
+    "created": "2015",
+    "category_summary": "The <em>Osteoarthritis</em> category includes research on the causes, diagnosis, prevention, and treatment of osteoarthritis, a disease that causes joint tissues to break down over time.&nbsp;",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Osteogenesis Imperfecta",
+    "created": "2008",
+    "category_summary": "The <em>Osteogenesis Imperfecta</em> category includes research on the genetics, diagnosis, and treatment of osteogenesis imperfecta, a genetic disorder that causes bones to break easily.",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Osteoporosis",
+    "created": "2008",
+    "category_summary": "The <em>Osteoporosis </em>category includes research on the causes, diagnosis, prevention, and treatment of osteoporosis, a disease of reduced bone mass that causes bones to become weak and brittle and at greater risk of fracture.",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Otitis Media",
+    "created": "2008",
+    "category_summary": "The <em>Otitis Media</em> category includes research on the causes, diagnosis, prevention, and treatment of middle ear infection (otitis media) and its complications, including cholesteatoma and mastoiditis.",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Ovarian Cancer",
+    "created": "2008",
+    "category_summary": "The <em>Ovarian Cancer</em> category includes research on the causes, diagnosis, prevention, and treatment of cancers that originate in tissues of the ovary.",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Paget's Disease",
+    "created": "2008",
+    "category_summary": "The <em>Paget's Disease </em>category includes research on the causes, diagnosis, prevention, and treatment of Paget’s disease of the bone (osteitis deformans), a disorder that causes bones to grow too large and weaken.",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Pain Research",
+    "created": "2012",
+    "category_summary": "The <em>Pain Research</em> category includes research on the causes, diagnosis, prevention, and treatment of acute and chronic pain, including research on painful conditions.",
+    "categories_included": "Back Pain,  Chronic Pain,  Fibromyalgia,  Headaches,  Neck Pain,  Vulvodynia"
+  },
+  {
+    "name": "Palliative Care",
+    "created": "2024",
+    "category_summary": "The <em>Palliative Care</em> category includes research on care that is focused on improving quality of life for people with serious illness by preventing or treating symptoms and side effects of the illness, rather than curing a disease or condition.",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Pancreatic Cancer",
+    "created": "2011",
+    "category_summary": "The <em>Pancreatic Cancer </em>category includes research on the causes, diagnosis, prevention, and treatment of cancers that originate in the tissues of the pancreas.",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Parkinson's Disease",
+    "created": "2008",
+    "category_summary": "The <em>Parkinson's Disease</em> category includes research on the causes, diagnosis, prevention, and treatment of Parkinson's disease, a brain disorder causing unintended or uncontrollable movements such as shaking or stiffness.&nbsp;",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Patient Safety",
+    "created": "2010",
+    "category_summary": "The <em>Patient Safety</em> category includes research on the health of patients, defined as individuals under the supervision of a healthcare provider inside or outside of a clinical setting. Includes research involving patient education, medication management and patient response, safety protocols and strategies, device management, and injury prevention when focused on the person receiving healthcare services.&nbsp;",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Pediatric",
+    "created": "2008",
+    "category_summary": "The <em>Pediatric</em> category includes research on health conditions that originate during the embryonic period to age 21. Includes research on congenital and developmental diseases.",
+    "categories_included": "Adolescent Sexual Activity,  Child Abuse and Neglect Research,  Childhood Obesity,  Conditions Affecting the Embryonic and Fetal Periods,  Congenital Heart Disease,  Congenital Structural Anomalies,  Duchenne/ Becker Muscular Dystrophy,  Pediatric - AIDS,  Infant Mortality,  Pediatric Cancer,  Pediatric Cardiomyopathy,  Perinatal Period - Conditions Originating in Perinatal Period,  Rett Syndrome,  Spinal Muscular Atrophy,  Youth Violence, Childhood Injury,  Underage Drinking"
+  },
+  {
+    "name": "Pediatric - AIDS",
+    "created": "2008",
+    "category_summary": "Reporting for<em> Pediatric - AIDS</em> does not follow the standard RCDC process. The <em>Pediatric - AIDS</em> category is created by manual classification of projects determined by NIH subject matter experts as relating to pediatric AIDS within the HIV/AIDS category.",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Pediatric Cancer",
+    "created": "2014",
+    "category_summary": "The <em>Pediatric Cancer</em> category includes research on the causes, diagnosis, prevention, treatment, and survivorship of cancers of childhood (birth to 21 years).",
+    "categories_included": "Childhood Leukemia"
+  },
+  {
+    "name": "Pediatric Cardiomyopathy",
+    "created": "2016",
+    "category_summary": "The <em>Pediatric Cardiomyopathy</em> category includes research on the causes, diagnosis, prevention, and treatment of the heart conditions called cardiomyopathies that originate during the fetal period to age 21.&nbsp;",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Pelvic Inflammatory Disease",
+    "created": "2008",
+    "category_summary": "The <em>Pelvic Inflammatory Disease</em> category includes research on the causes, diagnosis, prevention, and treatment of infection and inflammation of the uterus, ovaries, and other female reproductive organs.",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Perinatal Period - Conditions Originating in Perinatal Period",
+    "created": "2008",
+    "category_summary": "The <em>Perinatal Period - Conditions Originating in Perinatal Period </em>category includes research on health conditions affecting the offspring that originate during the period of 20 weeks gestation to 1-4 weeks after birth.&nbsp;",
+    "categories_included": "Cerebral Palsy,  Fetal Alcohol Spectrum Disorders (FASD),  Neonatal Respiratory Distress,  Preterm, Low Birth Weight and Health of the Newborn,  Sudden Infant Death Syndrome"
+  },
+  {
+    "name": "Peripheral Neuropathy",
+    "created": "2008",
+    "category_summary": "The <em>Peripheral Neuropathy</em> category includes research on the causes, diagnosis, prevention, and treatment of nerve disease or damage within the peripheral nervous system (the large communications network that sends signals between the central nervous system (the brain and spinal cord) and all other parts of the body). This category was formerly known as Neuropathy (renamed in 2015).",
+    "categories_included": "Charcot-Marie-Tooth Disease"
+  },
+  {
+    "name": "Physical Activity",
+    "created": "2016",
+    "category_summary": "The <em>Physical Activity</em> category includes research on the effect of physical activity and exercise on health and disease. Includes research on reducing sedentary activity.",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Physical Injury - Accidents and Adverse Effects",
+    "created": "2008",
+    "category_summary": "The <em>Physical Injury - Accidents and Adverse Effects</em> category includes research on the causes, diagnosis, prevention, and treatment of acquired injuries from an outside force. This category was formerly known as Injury (total) - Accidents/Adverse Effects (renamed in 2020).",
+    "categories_included": "Traumatic Head and Spine Injury"
+  },
+  {
+    "name": "Physical Rehabilitation",
+    "created": "2014",
+    "category_summary": "The <em>Physical Rehabilitation</em> category includes research on interventions to prevent, improve, or restore lost or deteriorating physical function.&nbsp;",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Pneumonia",
+    "created": "2008",
+    "category_summary": "The <em>Pneumonia</em> category includes research on the causative pathogens, transmission, diagnosis, prevention, and treatment of the lung infection pneumonia.",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Pneumonia and Influenza",
+    "created": "2008",
+    "category_summary": "The <em>Pneumonia and Influenza</em> category combines and removes duplicate projects found in the <em>Pneumonia</em> category and the <em>Influenza</em> category. This category was formerly known as Pneumonia &amp; Influenza (renamed in 2024).",
+    "categories_included": "Influenza,  Pneumonia"
+  },
+  {
+    "name": "Polycystic Kidney Disease",
+    "created": "2008",
+    "category_summary": "The <em>Polycystic Kidney Disease</em> category includes research on the genetics, mechanisms, diagnosis, and treatment of polycystic kidney disease, a genetic condition that causes fluid filled cysts to grow in the kidneys.&nbsp;",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Polycystic Ovary Syndrome (PCOS)",
+    "created": "2022",
+    "category_summary": "The <em>Polycystic Ovary Syndrome (PCOS)</em> category includes research on the causes, diagnosis, prevention, and treatment of PCOS, a set of symptoms that can relate to a hormonal imbalance and/or ovarian issues.",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Post-Acute Sequelae of SARS-CoV-2 infection (PASC) including Long COVID",
+    "created": "2022",
+    "category_summary": "The <em>Post-Acute Sequelae of SARS-CoV-2 infection (PASC) including Long COVID</em> category includes research on the causes, diagnosis, prevention, and treatment of PASC or long COVID, defined as new, returning, or ongoing health conditions or symptoms after the acute phase of SARS-CoV-2 infection has subsided and/or four weeks after infection. This category was formerly known as PASC including Long COVID (renamed in 2023).",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Post-Traumatic Stress Disorder (PTSD)",
+    "created": "2013",
+    "category_summary": "The <em>Post-Traumatic Stress Disorder (PTSD)</em> category includes research on the causes, diagnosis, prevention, and treatment of PTSD, a disorder that some people develop after they experience or see a shocking, scary, or dangerous event.",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Postural Orthostatic Tachycardia Syndrome",
+    "created": "2020",
+    "category_summary": "The <em>Postural Orthostatic Tachycardia Syndrome</em> category includes research on the causes, diagnosis, prevention, and treatment of postural orthostatic tachycardia syndrome, a condition that affects how your body controls blood flow and blood pressure when you stand up. Includes research on neurogenic orthostatic hypotension.&nbsp;",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Precision Medicine",
+    "created": "2016",
+    "category_summary": "The <em>Precision Medicine</em> category includes research on the use of biological markers, such as genes or physiological measures, to determine optimal prevention or treatment strategies for improved health outcomes for each individual. All research funded by the All of Us Research Program is reported in the <em>Precision Medicine</em> category.&nbsp;",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Pregnancy",
+    "created": "2017",
+    "category_summary": "The <em>Pregnancy</em> category includes research on conditions, exposures, treatments, and care during pregnancy, labor, delivery, and childbirth.&nbsp;",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Prescription Drug Misuse",
+    "created": "2010",
+    "category_summary": "The <em>Prescription Drug Misuse</em> category includes research on the use of prescription drugs in a manner other than prescribed by a provider. Includes research on the prevention, treatment, and outcomes of prescription drug misuse, addiction, and overdose. This category was formerly known as Prescription Drug Abuse (renamed in 2022).",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Preterm, Low Birth Weight and Health of the Newborn",
+    "created": "2008",
+    "category_summary": "The <em>Preterm, Low Birth Weight and Health of the Newborn</em> category includes research on health conditions affecting the offspring related to prematurity, birth injury or low birth weight that originate during the period of 20 weeks gestation to 1-4 weeks after birth. Includes research on fetal and placental development when focused on prematurity or birth weight. This category was formerly known as Perinatal - Birth - Preterm (LBW) (renamed in 2016).",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Prevention",
+    "created": "2008",
+    "category_summary": "The <em>Prevention</em> category includes research to (1) identify health risk and protective factors; (2) screen and identify people who are at risk for or have signs of an early stage condition; (3) develop and evaluate interventions that promote health, enhance protective factors, or reduce risk factors; (4) evaluate the impact of policies and regulations designed to promote health and safety; (5) test implementation and dissemination strategies for evidence-based preventive interventions and practices; and (6) develop and evaluate research methods for prevention-focused studies. Includes research on vaccine development; smoking prevention and cessation; and nutrition, physical activity, sleep health, violence, suicide prevention, and risks in the physical and social environment. Research on the treatment, management, or progression of an existing condition is not included, unless the outcome of interest is prevention of a new condition (such as prevention of cardiovascular disease among people living with HIV) or event (such as preventing drug overdose among people with opioid use disorder).",
+    "categories_included": "  Vaccine Related - AIDS,  HPV and/or Cervical Cancer Vaccines,  Malaria Vaccine,  Substance Misuse Prevention,  Suicide Prevention,  Tuberculosis Vaccine,  Youth Violence Prevention"
+  },
+  {
+    "name": "Primary Health Care",
+    "created": "2023",
+    "category_summary": "The <em>Primary Health Care</em> category includes research on primary care services, integration of primary health care and specialty care, primary care access and utilization, and improving technologies for use in primary care practice. Includes research on primary health care delivered in community settings or via telehealth.",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Primary Immunodeficiencies",
+    "created": "2024",
+    "category_summary": "The <em>Primary Immunodeficiencies</em> category includes research on the causes, diagnosis, prevention, and treatment of primary immunodeficiencies or inborn errors of immunity, which are defined as rare, genetic disorders that impair the immune system. Research on cystic fibrosis, somatic mutations, and autoantibodies are not included.",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Prostate Cancer",
+    "created": "2008",
+    "category_summary": "The <em>Prostate Cancer </em>category includes research on the causes, diagnosis, prevention, and treatment of cancers that originate in tissues of the prostate.",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Psoriasis",
+    "created": "2008",
+    "category_summary": "The <em>Psoriasis</em> category includes research on the causes, diagnosis, prevention, and treatment of psoriasis, a skin disease causing itchy or sore patches. Includes research on psoriatic arthritis and psoriasiform diseases. &nbsp;",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Psychosis",
+    "created": "2024",
+    "category_summary": "The <em>Psychosis</em> category includes research on the causes, diagnosis, prevention, and treatment of psychosis, a collection of symptoms that affect the mind and causes a loss of touch with reality. Includes research on psychosis due to substance use, medication, and medical conditions. Includes research on psychosis-related symptoms, such as hallucinations, delusions, perceptual disturbance, self-disturbance, and disordered thinking.",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Pulmonary Fibrosis",
+    "created": "2022",
+    "category_summary": "The <em>Pulmonary Fibrosis</em> category includes research on the causes, diagnosis, prevention, and treatment of pulmonary fibrosis, a condition causing scarring of lung tissue.",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Pulmonary Hypertension",
+    "created": "2022",
+    "category_summary": "The <em>Pulmonary Hypertension</em> category includes research on the causes, diagnosis, prevention, and treatment of pulmonary hypertension, a condition that causes high blood pressure in lungs. Includes research on right ventricular heart dysfunction and failure.",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Racial and Ethnic Minority Health Research",
+    "created": "2023",
+    "category_summary": "The <em>Racial and Ethnic Minority Health Research</em> category includes research on the health of racial and/or ethnic minority groups, as defined by the U.S. Office of Management and Budget (OMB), that can be socially disadvantaged due in part to potential discriminatory acts. The racial and ethnic minority groups defined by OMB are American Indian or Alaska Native, Asian, Black or African American, Hispanic or Latino, Middle Eastern or North African, and Native Hawaiian or Pacific Islander. This category also includes studies of individuals of mixed race or multiple races. Minority health research is the scientific investigation of distinctive health characteristics and attributes of minority racial and/or ethnic groups to understand health outcomes in these populations.",
+    "categories_included": "American Indian or Alaska Native"
+  },
+  {
+    "name": "Radiation Oncology",
+    "created": "2016",
+    "category_summary": "The <em>Radiation Oncology</em> category includes research on the medical use of radiation technologies as part of cancer treatment to control or destroy cancer cells. Includes research on treatment-related radiation-induced toxicity, injury, or bystander effects.",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Rare Diseases",
+    "created": "2011",
+    "category_summary": "The <em>Rare Diseases</em> category includes research on the causes, diagnosis, prevention, and treatment of diseases affecting fewer than 200,000 individuals in the United States. These diseases are typically listed on the Genetic and Rare Disease (GARD) and Surveillance, Epidemiology, and End Results (SEER) Program databases. Includes research on non-rare diseases when there is a focus on a rare subtype or a co-occurring rare disease.&nbsp;",
+    "categories_included": "Acute Respiratory Distress Syndrome,  Amyotrophic Lateral Sclerosis (ALS),  Anthrax,  Ataxia Telangiectasia,  Batten Disease,  Brain Cancer,  Charcot-Marie-Tooth Disease,  Childhood Leukemia,  Congenital Heart Disease,  Cooley&#039;s Anemia,   Cystic Fibrosis,  Dystonia,  Esophageal Cancer,  Fragile X Syndrome,  Hepatitis - A,  Huntington&#039;s Disease,  Hydrocephalus,  Liver Cancer,  Lymphoma,  Malaria,  Mucopolysaccharidoses (MPS),  Muscular Dystrophy,  Myasthenia Gravis,  Neuroblastoma,  Neurofibromatosis,  Orthopoxviruses,  Osteogenesis Imperfecta,  Ovarian Cancer,  Paget&#039;s Disease,  Pancreatic Cancer,  Pediatric Cancer,  Pediatric Cardiomyopathy,  Primary Immunodeficiencies,  Rett Syndrome,  Sickle Cell Disease,  Spina Bifida,  Spinal Muscular Atrophy,  Stomach Cancer,  Sudden Infant Death Syndrome,  Transmissible Spongiform Encephalopathy (TSE),  Tuberculosis,  Tuberous Sclerosis,  Usher Syndrome,  Vaginal Cancer,  Valley Fever,  West Nile Virus, Orphan Drug"
+  },
+  {
+    "name": "Recovery Support Services",
+    "created": "2023",
+    "category_summary": "The <em>Recovery Support Services</em> category includes research on the services to support, augment, or encourage the process of change through which individuals improve their health and wellness by addressing substance use disorder in addition to or in lieu of standard clinical care. Includes research on services to help people enter and navigate systems of care, remove barriers to recovery, and stay engaged in the recovery process. Research on medical services (such as provided by healthcare professionals) and clinical treatments (such as withdrawal management) is not included.",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Regenerative Medicine",
+    "created": "2008",
+    "category_summary": "The <em>Regenerative Medicine</em> category includes research that seeks to develop functional cells, cell components, tissues, and organ substitutes for repair, replacement, or enhancement of biological function that has been lost due to abnormalities present at birth, injury, disease, or aging. Includes research on natural regeneration and tissue regenerated outside of the body for subsequent implantation.",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Rehabilitation",
+    "created": "2008",
+    "category_summary": "The <em>Rehabilitation</em> category includes research with a goal of improved functional ability whether mental, physical, or emotional, such as treatments for diseases or conditions, devices used for rehabilitation, and interventions delivered by a rehabilitation professional. Regenerative medicine research is included when an intervention is used to assist the regeneration of cells or tissues. Criminal rehabilitation research is not included.",
+    "categories_included": "Physical Rehabilitation"
+  },
+  {
+    "name": "Rett Syndrome",
+    "created": "2008",
+    "category_summary": "The <em>Rett Syndrome</em> category includes research on the genetics, diagnosis, and treatment of the neurodevelopmental disorder Rett syndrome.&nbsp;",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Rheumatoid Arthritis",
+    "created": "2015",
+    "category_summary": "The <em>Rheumatoid Arthritis</em> category includes research on the causes, diagnosis, prevention, and treatment of rheumatoid arthritis, a disease that causes pain, swelling, stiffness and loss of function in joints.",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Rural Health",
+    "created": "2008",
+    "category_summary": "The Rural Health category includes research on the health of rural populations and rural areas within the United States. Rural areas are defined by the<a href=\"https://www.hrsa.gov/rural-health/about-us/what-is-rural\"> Health Resources and Services Administration</a>.&nbsp;",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Sarcoidosis",
+    "created": "2022",
+    "category_summary": "The <em>Sarcoidosis</em> category includes research on the causes, diagnosis, prevention, and treatment of sarcoidosis, a condition that develops when groups of cells in the immune system form red and swollen lumps.",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Sarcopenia",
+    "created": "2016",
+    "category_summary": "The <em>Sarcopenia </em>category includes research on the causes, diagnosis, prevention, and treatment of sarcopenia, a loss of muscle mass and function due to aging.&nbsp;",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Schizophrenia",
+    "created": "2008",
+    "category_summary": "The <em>Schizophrenia</em> category includes research on the causes, diagnosis, prevention, and treatment of schizophrenia spectrum disorders, which are mental disorders characterized by disruptions in thought processes, perceptions, emotional responsiveness, and social interactions. Includes research involving clinical high-risk individuals and first episode psychosis.&nbsp;",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Scleroderma",
+    "created": "2008",
+    "category_summary": "The <em>Scleroderma</em> category includes research on the causes, diagnosis, prevention, and treatment of localized and systemic scleroderma, an autoimmune disease that causes inflammation and thickening in the skin and other areas of the body.",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Screening and Brief Intervention for Substance Misuse",
+    "created": "2010",
+    "category_summary": "The <em>Screening and Brief Intervention for Substance Misuse</em> category includes research on therapies to quickly screen for substance-related disorders and the immediate, brief intervention for the screened condition. This category was formerly known as Screening and Brief Intervention for Substance Abuse (renamed in 2022).",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Sepsis",
+    "created": "2008",
+    "category_summary": "The <em>Sepsis</em> category includes research on the causes, diagnosis, prevention, and treatment of blood infections that lead to sepsis, a life-threatening immune response to infection. Includes research on septic shock. This category was formerly known as Septicemia (renamed in 2018).",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Serious Mental Illness",
+    "created": "2014",
+    "category_summary": "The <em>Serious Mental Illness</em> category includes research on diagnosable mental, behavioral, or emotional disorders that result in a substantial functional impairment&nbsp;that limits major life activities (for example, eating, personal hygiene, managing money, taking medication as prescribed, and functioning in social contexts).",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Sexually Transmitted Infections",
+    "created": "2008",
+    "category_summary": "The <em>Sexually Transmitted Infections</em> category includes research on the causes, transmission, diagnosis, prevention, and treatment of sexually transmitted infections. Includes research on high-risk sexual behaviors that lead to transmission. This category was formerly known as Sexually Transmitted Diseases/Herpes (renamed in 2018).",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Sickle Cell Disease",
+    "created": "2008",
+    "category_summary": "The <em>Sickle Cell Disease</em> category includes research on the genetics, diagnosis, and treatment of sickle cell disease, a group of inherited red blood cell disorders. Includes research on iron overload and acute chest syndrome.",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Skin Cancer",
+    "created": "2024",
+    "category_summary": "The <em>Skin Cancer</em> category includes research on the causes, diagnosis, prevention, and treatment of cancers that originate in the tissue of the skin.&nbsp;",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Sleep Research",
+    "created": "2008",
+    "category_summary": "The <em>Sleep Research</em> category includes research on sleep and the causes, diagnosis, prevention, and treatment of aberrant sleep-related conditions. Includes research on hormones regulating sleep, wakefulness studies, and sleep-specific circadian rhythms.&nbsp;",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Social Determinants of Health",
+    "created": "2020",
+    "category_summary": "The <em>Social Determinants of Health </em>category includes research on individual and structural social determinants of health which can lead to greater understanding, design, and implementation of effective interventions to reduce health disparities.&nbsp;",
+    "categories_included": "Homelessness,  Homicide and Legal Interventions"
+  },
+  {
+    "name": "Spina Bifida",
+    "created": "2008",
+    "category_summary": "The <em>Spina Bifida</em> category includes research on the causes, diagnosis, prevention, and treatment of spina bifida, a birth disorder that involves the incomplete development of the spine. Includes research on the related birth defect, anencephaly.",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Spinal Cord Injury",
+    "created": "2008",
+    "category_summary": "The <em>Spinal Cord Injury</em> category includes research on the causes, diagnosis, prevention, and treatment of acquired injuries to spinal cord from an outside force.",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Spinal Muscular Atrophy",
+    "created": "2008",
+    "category_summary": "The <em>Spinal Muscular Atrophy</em> category includes research on the genetics, diagnosis, and treatment of spinal muscular atrophy, a genetic, motor neuron disease characterized by wasting of the skeletal muscles.&nbsp;",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Stem Cell Research",
+    "created": "2008",
+    "category_summary": "Reporting for <em>Stem Cell Research</em> does not follow the standard RCDC process. The <em>Stem Cell Research</em> category is created by manual classification of projects determined by NIH subject matter experts as relating to the use and study of stem cells. This category includes the narrow <em>Stem Cell Research</em> categories (human and non-human) related to embryonic, induced pluripotent, nonembryonic, and umbilical cord blood/placenta stem cells.",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Stimulant Use and Misuse",
+    "created": "2022",
+    "category_summary": "The <em>Stimulant Use and Misuse</em> category includes research on the prevention, treatment and outcomes of stimulant use, misuse, addiction, and overdose. Includes only research on stimulants with addiction-forming potential, such as methamphetamine, cocaine, amphetamine, methylphenidate, and cathinone.",
+    "categories_included": "Cocaine,  Methamphetamine"
+  },
+  {
+    "name": "Stomach Cancer",
+    "created": "2020",
+    "category_summary": "The <em>Stomach Cancer</em> category includes research on the causes, diagnosis, prevention, and treatment of cancers that originate in tissues lining the stomach.",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Stroke",
+    "created": "2008",
+    "category_summary": "The <em>Stroke</em> category includes research on the causes, diagnosis, prevention, and treatment of stroke, a brain attack that occurs when a blood clot or leaking or burst blood vessel cuts off blood flow to part of the brain.&nbsp;",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Substance Misuse",
+    "created": "2008",
+    "category_summary": "The <em>Substance Misuse</em> category includes research on the misuse of licit and illicit addictive substances as it relates to dependence and tolerance, including the prevention, treatment, and outcomes of use. Research on substances without addiction forming potential or do not cause dependence (such as acetaminophen, blood pressure medications) is not included. Tobacco and e-cigarette research is included when focused on the trajectories, patterns, cessation, and dependence of use. All research funded by the National Institute on Drug Abuse and the National Institute on Alcohol Abuse and Alcoholism is reported in the <em>Substance Misuse </em>category. This category includes all spending reported under the <em>Drug Abuse (NIDA Only)</em> category as well as projects categorized under the broader area of <em>Substance Misuse</em>. More information on this area is available at <a href=\"https://nida.nih.gov/research-topics\">https://nida.nih.gov/research-topics</a>. This category was formerly known as Substance Abuse (renamed in 2021).",
+    "categories_included": "Alcoholism, Alcohol Use and Health,  Cocaine,  Drug Abuse (NIDA only),  Methamphetamine,  Opioid Misuse and Addiction,  Prescription Drug Misuse,  Screening and Brief Intervention for Substance Misuse, Harm Reduction for Substance Misuse,  Recovery Support Services,  Substance Misuse Prevention"
+  },
+  {
+    "name": "Substance Misuse Prevention",
+    "created": "2010",
+    "category_summary": "The <em>Substance Misuse Prevention</em> category includes research on prevention of substance use disorders (SUD) and the escalation of recreational/occasional use to SUD. This category was formerly known as Substance Abuse Prevention (renamed in 2022).",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Sudden Infant Death Syndrome",
+    "created": "2008",
+    "category_summary": "The <em>Sudden Infant Death Syndrome</em> category includes research on the causes and prevention of sudden death in infants from birth to one year, when no other cause of death can be identified.",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Suicide",
+    "created": "2008",
+    "category_summary": "The <em>Suicide</em> category includes research on the causes, risks, and prevention of suicide. Research on mental health conditions such as depression is only included when focused on suicide or suicidality.",
+    "categories_included": "Suicide Prevention"
+  },
+  {
+    "name": "Suicide Prevention",
+    "created": "2010",
+    "category_summary": "The <em>Suicide Prevention</em> category includes research on interventions to prevent suicide and reduce suicide risk.&nbsp;",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Teenage Pregnancy",
+    "created": "2008",
+    "category_summary": "The <em>Teenage Pregnancy</em> category includes research on pregnancy in adolescents from ages 12-20. Includes research on the mental health of teenage parents, adolescent sexual risk behavior, and promotion of safe sex practices among adolescents.&nbsp;",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Telehealth",
+    "created": "2021",
+    "category_summary": "The <em>Telehealth</em> category includes research on the use of digital information and communication technologies by healthcare providers to deliver remote healthcare services. Includes research involving patient-provider interactions as well as provider-provider interactions.&nbsp;",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Temporomandibular Muscle/Joint Disorder (TMJD)",
+    "created": "2008",
+    "category_summary": "The <em>Temporomandibular Muscle/Joint Disorder (TMJD) </em>category includes research on the causes, diagnosis, prevention, and treatment of pain and dysfunction in the jaw joint and muscles.&nbsp;",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Therapeutic Cannabinoid Research",
+    "created": "2015",
+    "category_summary": "The <em>Therapeutic Cannabinoid Research</em> category includes research on cannabis, purified or synthetic cannabinoids, and the endogenous cannabinoid system for medical uses, such as treatment of diseases or conditions.&nbsp;",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Tickborne Diseases",
+    "created": "2021",
+    "category_summary": "The <em>Tickborne Diseases</em> category includes research on the causative pathogens, transmission, diagnosis, prevention, and treatment of diseases in humans caused by tickborne infections.&nbsp;",
+    "categories_included": "Lyme Disease"
+  },
+  {
+    "name": "Tobacco",
+    "created": "2008",
+    "category_summary": "The <em>Tobacco</em> category includes research on combustible and non-combustible tobacco products and the health effects of tobacco use, including the prevention, treatment, and outcomes of use and addiction.",
+    "categories_included": "Electronic Nicotine Delivery Systems,  Tobacco Smoke and Health"
+  },
+  {
+    "name": "Tobacco Smoke and Health",
+    "created": "2008",
+    "category_summary": "The <em>Tobacco&nbsp;Smoke and Health</em> category includes research on combustible tobacco products and the health effects of combustible tobacco smoking, including the prevention, treatment, and outcomes of use. This category was formerly known as Smoking and Health (renamed in 2018).&nbsp;",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Topical Microbicides",
+    "created": "2008",
+    "category_summary": "The <em>Topical Microbicides</em> category includes research on the development and evaluation of products designed for intravaginal and/or rectal use to prevent sexually transmitted infections, including HIV infection.&nbsp;",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Tourette Syndrome",
+    "created": "2008",
+    "category_summary": "The<em> Tourette Syndrome</em> category includes research on the causes, diagnosis, prevention, and treatment of the neurological disorder Tourette syndrome and other tic disorders. Includes research on behavioral manifestations of these disorders, such as echolalia, coprolalia, and palinphrasia.&nbsp;",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Transmissible Spongiform Encephalopathy (TSE)",
+    "created": "2008",
+    "category_summary": "The<em> Transmissible Spongiform Encephalopathy (TSE)</em> category includes research on the causes, diagnosis, prevention, and treatment of transmissible spongiform encephalopathies or prion diseases, a group of rare degenerative brain disorders characterized by tiny holes that give the brain a \"spongy\" appearance. Includes research on prion biology.&nbsp;",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Transplantation",
+    "created": "2008",
+    "category_summary": "The <em>Transplantation</em> category includes research on the transfer of a solid organ, cells, tissues, or bone marrow, including research on the health of transplant recipients.&nbsp;",
+    "categories_included": "Human Fetal Tissue Transplantation,  Organ Transplantation"
+  },
+  {
+    "name": "Traumatic Brain Injury (TBI)",
+    "created": "2008",
+    "category_summary": "The <em>Traumatic Brain Injury (TBI) </em>category includes research on the causes, diagnosis, prevention, and treatment of acquired injuries to the brain from an outside force. This category was formerly known as Injury - Traumatic Brain Injury (renamed in 2021).",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Traumatic Head and Spine Injury",
+    "created": "2008",
+    "category_summary": "The <em>Traumatic Head and Spine Injury</em> category includes research on the causes, diagnosis, prevention, and treatment of acquired injuries to the spine or head from an outside force. This category was formerly known as Injury - Trauma - (Head and Spine) (renamed in 2021).",
+    "categories_included": "Spinal Cord Injury,  Traumatic Brain Injury (TBI)"
+  },
+  {
+    "name": "Tuberculosis",
+    "created": "2008",
+    "category_summary": "The <em>Tuberculosis</em> category includes research on the causative pathogens, transmission, diagnosis, prevention, and treatment of the bacterial disease tuberculosis.&nbsp;",
+    "categories_included": "Tuberculosis Vaccine"
+  },
+  {
+    "name": "Tuberculosis Vaccine",
+    "created": "2008",
+    "category_summary": "The <em>Tuberculosis Vaccine</em> category includes research on the development, delivery, and outcomes of tuberculosis vaccines.",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Tuberous Sclerosis",
+    "created": "2008",
+    "category_summary": "The <em>Tuberous Sclerosis</em> category includes research on the genetics, diagnosis, and treatment of tuberous sclerosis, a genetic condition characterized by seizures, mental disabilities, and skin and eye lesions.&nbsp;",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Underage Drinking",
+    "created": "2010",
+    "category_summary": "The <em>Underage Drinking</em> category includes research on alcohol consumption by individuals under the age 21.&nbsp;",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Unintentional Childhood Injury",
+    "created": "2008",
+    "category_summary": "The <em>Unintentional Childhood Injury</em> category includes research on the causes, diagnosis, prevention, and treatment of unintentional physical injuries occurring during the fetal period to age 21. This category was formerly known as Injury - Unintentional Childhood Injury (renamed in 2021).",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Urologic Diseases",
+    "created": "2008",
+    "category_summary": "The <em>Urologic Diseases</em> category includes research on the causes, diagnosis, prevention, and treatment of diseases and conditions that affect the urinary tract and male genital tract.",
+    "categories_included": "Interstitial Cystitis,   Prostate Cancer,   "
+  },
+  {
+    "name": "Usher Syndrome",
+    "created": "2014",
+    "category_summary": "The <em>Usher Syndrome </em>category includes research on the genetics, diagnosis, and treatment of Usher syndrome, a genetic condition affecting vision, hearing, and balance.&nbsp;",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Uterine Cancer",
+    "created": "2008",
+    "category_summary": "The <em>Uterine Cancer</em> category includes research on the causes, diagnosis, prevention, and treatment of cancers that originate in the endometrium and body of the uterus.&nbsp;",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Vaccine Related",
+    "created": "2008",
+    "category_summary": "The <em>Vaccine Related</em> category includes research on the development, delivery, outcomes, and societal factors of vaccines and active immunization (activation of the immune system after exposure to an antigen).",
+    "categories_included": "Coronaviruses Vaccines,  Vaccine Related - AIDS,  HPV and/or Cervical Cancer Vaccines,  Malaria Vaccine,  Tuberculosis Vaccine"
+  },
+  {
+    "name": "Vaccine Related - AIDS",
+    "created": "2008",
+    "category_summary": "Reporting for <em>Vaccine Related - AIDS </em>does not follow the standard RCDC process. The <em>Vaccine Related - AIDS</em> category is created by manual classification of projects determined by NIH subject matter experts as vaccine related AIDS research within the HIV/AIDS category.",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Vaginal Cancer",
+    "created": "2015",
+    "category_summary": "The <em>Vaginal Cancer</em> category includes research on the causes, diagnosis, prevention, and treatment of cancers that originate in the tissue of the vagina.&nbsp;",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Valley Fever",
+    "created": "2014",
+    "category_summary": "The <em>Valley Fever</em> category includes research on the causative pathogen, transmission, diagnosis, prevention, and treatment of the Valley fever or coccidioidomycosis, an infection caused by the fungus Coccidioides.",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Vascular Contributions to Cognitive Impairment and Dementia (VCID)",
+    "created": "2014",
+    "category_summary": "The <em>Vascular Contributions to Cognitive Impairment and Dementia (VCID)</em> category includes research on the causes, diagnosis, prevention and treatment of memory impairment and other cognitive dysfunction due to vascular disease or injury in the brain. This category was formerly known as Vascular Cognitive Impairment/Dementia (renamed in 2023).",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Vector-Borne Diseases",
+    "created": "2008",
+    "category_summary": "The <em>Vector-Borne Diseases</em> category includes research on the causative pathogens, transmission, diagnosis, prevention, and treatment of infections and diseases that are transmitted by vectors, such as mosquitoes, ticks, and fleas that carry microbes infectious to humans.",
+    "categories_included": "Malaria,  Tickborne Diseases,  West Nile Virus,  Zika Virus"
+  },
+  {
+    "name": "Violence Against Women",
+    "created": "2008",
+    "category_summary": "The <em>Violence Against Women</em> category includes research on the causes, prevention, and outcomes of physical and psychological violence directed toward women of any age.&nbsp;",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Violence Research",
+    "created": "2008",
+    "category_summary": "The <em>Violence Research </em>category includes research on the causes, prevention, and outcomes of physical and psychological violence, including self-directed violence.&nbsp;",
+    "categories_included": "Child Abuse and Neglect Research,  Homicide and Legal Interventions, Violence Against Women,  Youth Violence"
+  },
+  {
+    "name": "Vulvodynia",
+    "created": "2009",
+    "category_summary": "The <em>Vulvodynia</em> category includes research on the causes, diagnosis, prevention, and treatment of vulvodynia, a chronic pain condition in the vulva.&nbsp;",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "West Nile Virus",
+    "created": "2008",
+    "category_summary": "The <em>West Nile Virus</em> category includes research on the causative pathogen, transmission, diagnosis, prevention, and treatment of infections caused by West Nile virus.",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Women's Health Research",
+    "created": "2024",
+    "category_summary": "The <em>Women's Health Research</em> category includes research on health conditions affecting women across the lifespan including female-specific conditions or issues that may present differently or disproportionately in women. Pregnancy and breastfeeding research is included when the focus of the research is maternal health.",
+    "categories_included": "Breast Cancer,  Cervical Cancer,  Endometriosis,  Fibroid Tumors (Uterine),  Maternal Health,  Menopause,  Ovarian Cancer,  Pelvic Inflammatory Disease,  Polycystic Ovary Syndrome (PCOS),  Rett Syndrome,  Uterine Cancer,  Vaginal Cancer,  Violence Against Women,  Vulvodynia"
+  },
+  {
+    "name": "Wound Healing and Care",
+    "created": "2020",
+    "category_summary": "The <em>Wound Healing and Care</em> category includes research on the causes, diagnosis, prevention, and treatment of all external wounds, which includes acute wounds (such as abrasions, lacerations, skin tears, blisters, burns, and penetrating trauma wounds) and chronic wounds (such as diabetic, venous, and pressure ulcers). Includes research on skin, eye, and oral wounds. Research on internal wounds, such as those sustained to organs, bones, and muscles, are not included.",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Youth Violence",
+    "created": "2008",
+    "category_summary": "The <em>Youth Violence</em> category includes research on the causes, prevention, and outcomes of physical and psychological violence by youth against other youths (birth to age 21), including hazing and bullying.",
+    "categories_included": "Youth Violence Prevention"
+  },
+  {
+    "name": "Youth Violence Prevention",
+    "created": "2010",
+    "category_summary": "The <em>Youth Violence Prevention</em> category includes research on the prevention or reduction of physical and psychological violence by youth against other youths (birth to age 21), including hazing and bullying.",
+    "categories_included": "N/A"
+  },
+  {
+    "name": "Zika Virus",
+    "created": "2024",
+    "category_summary": "The <em>Zika Virus</em> category includes research on the causative pathogen, transmission, diagnosis, prevention, and treatment of infections caused by Zika virus.",
+    "categories_included": "N/A"
+  }
+]
